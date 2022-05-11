@@ -1,0 +1,26 @@
+G,Date,Time,Type,,Opponent,Conf,Result,Tm,Opp,OT,W,L,Streak,Arena
+1,"Wed, Nov 25, 2020",1:30p,REG,N,Towson,CAA,W,89,54,,1,0,W 1,Mohegan Sun Arena
+2,"Fri, Nov 27, 2020",11:30a,REG,N,San Francisco,WCC,L,60,61,,1,1,L 1,Mohegan Sun Arena
+3,"Tue, Dec 1, 2020",4:00p,REG,,Saint Francis (PA),NEC,W,76,51,,2,1,W 1,John Paul Jones Arena
+4,"Fri, Dec 4, 2020",6:00p,REG,,Kent State,MAC,W,71,64,OT,3,1,W 2,John Paul Jones Arena
+5,"Tue, Dec 22, 2020",2:00p,REG,,William & Mary,CAA,W,76,40,,4,1,W 3,John Paul Jones Arena
+6,"Sat, Dec 26, 2020",4:00p,REG,N,Gonzaga (1),WCC,L,75,98,,4,2,L 1,
+7,"Wed, Dec 30, 2020",6:00p,REG,@,Notre Dame,ACC,W,66,57,,5,2,W 1,Purcell Pavilion at the Joyce Center
+8,"Wed, Jan 6, 2021",9:00p,REG,,Wake Forest,ACC,W,70,61,,6,2,W 2,John Paul Jones Arena
+9,"Sat, Jan 9, 2021",2:00p,REG,@,Boston College,ACC,W,61,49,,7,2,W 3,Silvio O. Conte Forum
+10,"Wed, Jan 13, 2021",4:30p,REG,,Notre Dame,ACC,W,80,68,,8,2,W 4,John Paul Jones Arena
+11,"Sat, Jan 16, 2021",6:00p,REG,@,Clemson (12),ACC,W,85,50,,9,2,W 5,Littlejohn Coliseum
+12,"Sat, Jan 23, 2021",8:00p,REG,,Georgia Tech,ACC,W,64,62,,10,2,W 6,John Paul Jones Arena
+13,"Mon, Jan 25, 2021",7:00p,REG,,Syracuse,ACC,W,81,58,,11,2,W 7,John Paul Jones Arena
+14,"Sat, Jan 30, 2021",6:00p,REG,@,Virginia Tech (20),ACC,L,51,65,,11,3,L 1,Cassell Coliseum
+15,"Wed, Feb 3, 2021",9:00p,REG,@,North Carolina State,ACC,W,64,57,,12,3,W 1,PNC Arena
+16,"Sat, Feb 6, 2021",4:00p,REG,,Pittsburgh,ACC,W,73,66,,13,3,W 2,John Paul Jones Arena
+17,"Wed, Feb 10, 2021",7:00p,REG,@,Georgia Tech,ACC,W,57,49,,14,3,W 3,McCamish Pavilion
+18,"Sat, Feb 13, 2021",6:00p,REG,,North Carolina,ACC,W,60,48,,15,3,W 4,John Paul Jones Arena
+19,"Mon, Feb 15, 2021",7:00p,REG,@,Florida State (16),ACC,L,60,81,,15,4,L 1,Donald L. Tucker Center
+20,"Sat, Feb 20, 2021",8:00p,REG,@,Duke,ACC,L,65,66,,15,5,L 2,Cameron Indoor Stadium
+21,"Wed, Feb 24, 2021",6:30p,REG,,North Carolina State,ACC,L,61,68,,15,6,L 3,John Paul Jones Arena
+22,"Mon, Mar 1, 2021",6:00p,REG,,Miami (FL),ACC,W,62,51,,16,6,W 1,John Paul Jones Arena
+23,"Sat, Mar 6, 2021",4:00p,REG,@,Louisville,ACC,W,68,58,,17,6,W 2,KFC Yum! Center
+24,"Thu, Mar 11, 2021",12:00p,CTOURN,N,Syracuse,ACC,W,72,69,,18,6,W 3,Greensboro Coliseum
+25,"Sat, Mar 20, 2021",7:15p,NCAA,N,Ohio,MAC,L,58,62,,18,7,L 1,Assembly Hall

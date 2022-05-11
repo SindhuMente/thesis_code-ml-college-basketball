@@ -1,0 +1,30 @@
+G,Date,Time,Type,,Opponent,Conf,,Tm,Opp,OT,W,L,Streak,Arena
+1,"Wed, Dec 2, 2020",9:00p,REG,N,Missouri,SEC,L,75,83,,0,1,L 1,CenturyLink Center
+2,"Fri, Dec 4, 2020",9:00p,REG,N,Seton Hall,Big East,W,83,70,,1,1,W 1,CenturyLink Center
+3,"Mon, Dec 7, 2020",7:00p,REG,,Eastern Washington,Big Sky,W,69,52,,2,1,W 2,Matthew Knight Arena
+4,"Wed, Dec 9, 2020",11:00p,REG,,Florida A&M,MEAC,W,87,66,,3,1,W 3,Matthew Knight Arena
+5,"Sat, Dec 12, 2020",8:00p,REG,@,Washington,Pac-12,W,74,71,,4,1,W 4,Alaska Airlines Arena
+6,"Thu, Dec 17, 2020",8:00p,REG,,San Francisco,WCC,W,74,64,,5,1,W 5,Matthew Knight Arena
+7,"Sat, Dec 19, 2020",3:00p,REG,,Portland,WCC,W,80,41,,6,1,W 6,Matthew Knight Arena
+8,"Thu, Dec 31, 2020",10:00p,REG,,University of California,Pac-12,W,82,69,,7,1,W 7,Matthew Knight Arena
+9,"Sat, Jan 2, 2021",10:00p,REG,,Stanford,Pac-12,W,73,56,,8,1,W 8,Matthew Knight Arena
+10,"Thu, Jan 7, 2021",5:00p,REG,@,Colorado,Pac-12,L,72,79,,8,2,L 1,Coors Events/Conference Center
+11,"Sat, Jan 9, 2021",9:30p,REG,@,Utah,Pac-12,W,79,73,,9,2,W 1,Jon M. Huntsman Center
+12,"Sat, Jan 23, 2021",10:30p,REG,,Oregon State,Pac-12,L,64,75,,9,3,L 1,Matthew Knight Arena
+13,"Thu, Feb 4, 2021",11:00p,REG,,Washington State,Pac-12,L,71,74,,9,4,L 2,Matthew Knight Arena
+14,"Sat, Feb 6, 2021",4:00p,REG,,Washington,Pac-12,W,86,74,,10,4,W 1,Matthew Knight Arena
+15,"Thu, Feb 11, 2021",9:00p,REG,@,Arizona State,Pac-12,W,75,64,,11,4,W 2,Wells Fargo Arena
+16,"Sat, Feb 13, 2021",2:00p,REG,@,Arizona,Pac-12,W,63,61,,12,4,W 3,McKale Center
+17,"Thu, Feb 18, 2021",11:00p,REG,,Colorado,Pac-12,W,60,56,,13,4,W 4,Matthew Knight Arena
+18,"Sat, Feb 20, 2021",9:00p,REG,,Utah,Pac-12,W,67,64,,14,4,W 5,Matthew Knight Arena
+19,"Mon, Feb 22, 2021",9:00p,REG,@,Southern California (19),Pac-12,L,58,72,,14,5,L 1,Galen Center
+20,"Thu, Feb 25, 2021",9:00p,REG,@,Stanford,Pac-12,W,71,68,,15,5,W 1,Maples Pavilion
+21,"Sat, Feb 27, 2021",4:00p,REG,@,University of California,Pac-12,W,74,63,,16,5,W 2,Haas Pavilion
+22,"Mon, Mar 1, 2021",9:00p,REG,,Arizona,Pac-12,W,80,69,,17,5,W 3,Matthew Knight Arena
+23,"Wed, Mar 3, 2021",9:00p,REG,,UCLA,Pac-12,W,82,74,,18,5,W 4,Matthew Knight Arena
+24,"Sun, Mar 7, 2021",8:00p,REG,@,Oregon State,Pac-12,W,80,67,,19,5,W 5,Gill Coliseum
+25,"Thu, Mar 11, 2021",2:30p,CTOURN,N,Arizona State,Pac-12,W,91,73,,20,5,W 6,T-Mobile Arena
+26,"Fri, Mar 12, 2021",8:30p,CTOURN,N,Oregon State,Pac-12,L,64,75,,20,6,L 1,T-Mobile Arena
+27,"Sat, Mar 20, 2021",9:57p,NCAA,N,Virginia Commonwealth,A-10,,,,,,,,Indiana Farmers Coliseum
+28,"Mon, Mar 22, 2021",12:10p,NCAA,N,Iowa (8),Big Ten,W,95,80,,21,6,W 1,Bankers Life Fieldhouse
+29,"Sun, Mar 28, 2021",9:45p,NCAA,N,Southern California (24),Pac-12,L,68,82,,21,7,L 1,Bankers Life Fieldhouse

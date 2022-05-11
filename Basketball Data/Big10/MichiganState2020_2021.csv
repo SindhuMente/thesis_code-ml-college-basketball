@@ -1,0 +1,29 @@
+G,Date,Time,Type,,Opponent,Conf,,Tm,Opp,OT,W,L,Streak,Arena
+1,"Wed, Nov 25, 2020",6:00p,REG,,Eastern Michigan,MAC,W,83,67,,1,0,W 1,Breslin Events Center
+2,"Sat, Nov 28, 2020",8:00p,REG,,Notre Dame,ACC,W,80,70,,2,0,W 2,Breslin Events Center
+3,"Tue, Dec 1, 2020",7:30p,REG,@,Duke (6),ACC,W,75,69,,3,0,W 3,Cameron Indoor Stadium
+4,"Fri, Dec 4, 2020",5:00p,REG,,Detroit Mercy,Horizon,W,83,76,,4,0,W 4,Breslin Events Center
+5,"Sun, Dec 6, 2020",6:00p,REG,,Western Michigan,MAC,W,79,61,,5,0,W 5,Breslin Events Center
+6,"Sun, Dec 13, 2020",12:00p,REG,,Oakland,Horizon,W,109,91,,6,0,W 6,Breslin Events Center
+7,"Sun, Dec 20, 2020",7:00p,REG,@,Northwestern,Big Ten,L,65,79,,6,1,L 1,Welsh-Ryan Arena
+8,"Fri, Dec 25, 2020",12:30p,REG,,Wisconsin (9),Big Ten,L,76,85,,6,2,L 2,Breslin Events Center
+9,"Mon, Dec 28, 2020",8:00p,REG,@,Minnesota (21),Big Ten,L,56,81,,6,3,L 3,Williams Arena
+10,"Sat, Jan 2, 2021",8:00p,REG,@,Nebraska,Big Ten,W,84,77,,7,3,W 1,Pinnacle Bank Arena
+11,"Tue, Jan 5, 2021",9:00p,REG,,Rutgers (15),Big Ten,W,68,45,,8,3,W 2,Breslin Events Center
+12,"Fri, Jan 8, 2021",7:00p,REG,,Purdue,Big Ten,L,54,55,,8,4,L 1,Breslin Events Center
+13,"Thu, Jan 28, 2021",7:00p,REG,@,Rutgers,Big Ten,L,37,67,,8,5,L 2,Rutgers Athletic Center
+14,"Sun, Jan 31, 2021",1:00p,REG,@,Ohio State (13),Big Ten,L,62,79,,8,6,L 3,Value City Arena
+15,"Tue, Feb 2, 2021",7:00p,REG,@,Iowa (8),Big Ten,L,78,84,,8,7,L 4,Carver-Hawkeye Arena
+16,"Sat, Feb 6, 2021",6:30p,REG,,Nebraska,Big Ten,W,66,56,,9,7,W 1,Breslin Events Center
+17,"Tue, Feb 9, 2021",7:00p,REG,,Penn State,Big Ten,W,60,58,,10,7,W 2,Breslin Events Center
+18,"Sat, Feb 13, 2021",2:30p,REG,,Iowa (15),Big Ten,L,58,88,,10,8,L 1,Breslin Events Center
+19,"Tue, Feb 16, 2021",7:00p,REG,@,Purdue,Big Ten,L,65,75,,10,9,L 2,Mackey Arena
+20,"Sat, Feb 20, 2021",12:00p,REG,@,Indiana,Big Ten,W,78,71,,11,9,W 1,Assembly Hall
+21,"Tue, Feb 23, 2021",7:00p,REG,,Illinois (5),Big Ten,W,81,72,,12,9,W 2,Breslin Events Center
+22,"Thu, Feb 25, 2021",9:00p,REG,,Ohio State (4),Big Ten,W,71,67,,13,9,W 3,Breslin Events Center
+23,"Sun, Feb 28, 2021",2:00p,REG,@,Maryland,Big Ten,L,55,73,,13,10,L 1,Xfinity Center
+24,"Tue, Mar 2, 2021",8:00p,REG,,Indiana,Big Ten,W,64,58,,14,10,W 1,Breslin Events Center
+25,"Thu, Mar 4, 2021",7:00p,REG,@,Michigan (2),Big Ten,L,50,69,,14,11,L 1,Crisler Arena
+26,"Sun, Mar 7, 2021",4:30p,REG,,Michigan (2),Big Ten,W,70,64,,15,11,W 1,Breslin Events Center
+27,"Thu, Mar 11, 2021",11:30a,CTOURN,N,Maryland,Big Ten,L,57,68,,15,12,L 1,Lucas Oil Stadium
+28,"Thu, Mar 18, 2021",10:19p,NCAA,N,UCLA,Pac-12,L,80,86,OT,15,13,L 2,Mackey Arena

@@ -1,0 +1,32 @@
+G,Date,Time,Type,,Opponent,Conf,,Tm,Opp,OT,W,L,Streak,Arena
+1,"Wed, Nov 25, 2020",4:00p,REG,,North Carolina Central,MEAC,W,97,67,,1,0,W 1,Carver-Hawkeye Arena
+2,"Fri, Nov 27, 2020",5:00p,REG,,Southern,SWAC,W,103,76,,2,0,W 2,Carver-Hawkeye Arena
+3,"Thu, Dec 3, 2020",8:00p,REG,,Western Illinois,Summit,W,99,58,,3,0,W 3,Carver-Hawkeye Arena
+4,"Tue, Dec 8, 2020",7:30p,REG,,North Carolina (16),ACC,W,93,80,,4,0,W 4,Carver-Hawkeye Arena
+5,"Fri, Dec 11, 2020",9:00p,REG,,Iowa State,Big 12,W,105,77,,5,0,W 5,Carver-Hawkeye Arena
+6,"Sun, Dec 13, 2020",2:00p,REG,,Northern Illinois,MAC,W,106,53,,6,0,W 6,Carver-Hawkeye Arena
+7,"Sat, Dec 19, 2020",12:00p,REG,N,Gonzaga (1),WCC,L,88,99,,6,1,L 1,Sanford Pentagon
+8,"Tue, Dec 22, 2020",9:00p,REG,,Purdue,Big Ten,W,70,55,,7,1,W 1,Carver-Hawkeye Arena
+9,"Fri, Dec 25, 2020",8:00p,REG,@,Minnesota,Big Ten,L,95,102,OT,7,2,L 1,Williams Arena
+10,"Tue, Dec 29, 2020",9:00p,REG,,Northwestern (19),Big Ten,W,87,72,,8,2,W 1,Carver-Hawkeye Arena
+11,"Sat, Jan 2, 2021",2:00p,REG,@,Rutgers (14),Big Ten,W,77,75,,9,2,W 2,Rutgers Athletic Center
+12,"Thu, Jan 7, 2021",7:00p,REG,@,Maryland,Big Ten,W,89,67,,10,2,W 3,Xfinity Center
+13,"Sun, Jan 10, 2021",2:30p,REG,,Minnesota (16),Big Ten,W,86,71,,11,2,W 4,Carver-Hawkeye Arena
+14,"Sun, Jan 17, 2021",12:00p,REG,@,Northwestern,Big Ten,W,96,73,,12,2,W 5,Welsh-Ryan Arena
+15,"Thu, Jan 21, 2021",9:00p,REG,,Indiana,Big Ten,L,69,81,,12,3,L 1,Carver-Hawkeye Arena
+16,"Fri, Jan 29, 2021",9:00p,REG,@,Illinois (19),Big Ten,L,75,80,,12,4,L 2,State Farm Center
+17,"Tue, Feb 2, 2021",7:00p,REG,,Michigan State,Big Ten,W,84,78,,13,4,W 1,Carver-Hawkeye Arena
+18,"Thu, Feb 4, 2021",7:00p,REG,,Ohio State (7),Big Ten,L,85,89,,13,5,L 1,Carver-Hawkeye Arena
+19,"Sun, Feb 7, 2021",12:00p,REG,@,Indiana,Big Ten,L,65,67,,13,6,L 2,Assembly Hall
+20,"Wed, Feb 10, 2021",7:30p,REG,,Rutgers (25),Big Ten,W,79,66,,14,6,W 1,Carver-Hawkeye Arena
+21,"Sat, Feb 13, 2021",2:30p,REG,@,Michigan State,Big Ten,W,88,58,,15,6,W 2,Breslin Events Center
+22,"Thu, Feb 18, 2021",7:00p,REG,@,Wisconsin (21),Big Ten,W,77,62,,16,6,W 3,Kohl Center
+23,"Sun, Feb 21, 2021",5:00p,REG,,Penn State,Big Ten,W,74,68,,17,6,W 4,Carver-Hawkeye Arena
+24,"Thu, Feb 25, 2021",7:00p,REG,@,Michigan (3),Big Ten,L,57,79,,17,7,L 1,Crisler Arena
+25,"Sun, Feb 28, 2021",4:00p,REG,@,Ohio State (4),Big Ten,W,73,57,,18,7,W 1,Value City Arena
+26,"Thu, Mar 4, 2021",9:00p,REG,,Nebraska,Big Ten,W,102,64,,19,7,W 2,Carver-Hawkeye Arena
+27,"Sun, Mar 7, 2021",12:30p,REG,,Wisconsin (25),Big Ten,W,77,73,,20,7,W 3,Carver-Hawkeye Arena
+28,"Fri, Mar 12, 2021",9:00p,CTOURN,N,Wisconsin,Big Ten,W,62,57,,21,7,W 4,Lucas Oil Stadium
+29,"Sat, Mar 13, 2021",3:30p,CTOURN,N,Illinois (3),Big Ten,L,71,82,,21,8,L 1,Lucas Oil Stadium
+30,"Sat, Mar 20, 2021",6:25p,NCAA,N,Grand Canyon,WAC,W,86,74,,22,8,W 1,Indiana Farmers Coliseum
+31,"Mon, Mar 22, 2021",12:10p,NCAA,N,Oregon,Pac-12,L,80,95,,22,9,L 1,Bankers Life Fieldhouse

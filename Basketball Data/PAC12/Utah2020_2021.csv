@@ -1,0 +1,26 @@
+G,Date,Time,Type,,Opponent,Conf,,Tm,Opp,OT,W,L,Streak,Arena
+1,"Thu, Dec 3, 2020",6:00p,REG,,Washington,Pac-12,W,76,62,,1,0,W 1,Jon M. Huntsman Center
+2,"Tue, Dec 8, 2020",6:00p,REG,,Idaho State,Big Sky,W,75,59,,2,0,W 2,Jon M. Huntsman Center
+3,"Sat, Dec 12, 2020",6:00p,REG,@,Brigham Young,WCC,L,64,82,,2,1,L 1,Marriott Center
+4,"Tue, Dec 15, 2020",7:00p,REG,,Utah Valley,WAC,W,75,67,,3,1,W 1,Jon M. Huntsman Center
+5,"Fri, Dec 18, 2020",9:00p,REG,,Idaho,Big Sky,W,79,41,,4,1,W 2,Jon M. Huntsman Center
+6,"Thu, Dec 31, 2020",7:00p,REG,@,UCLA,Pac-12,L,70,72,,4,2,L 1,Pauley Pavilion
+7,"Sat, Jan 2, 2021",4:00p,REG,@,Southern California,Pac-12,L,46,64,,4,3,L 2,Galen Center
+8,"Sat, Jan 9, 2021",9:30p,REG,,Oregon (17),Pac-12,L,73,79,,4,4,L 3,Jon M. Huntsman Center
+9,"Mon, Jan 11, 2021",6:00p,REG,,Colorado,Pac-12,L,58,65,,4,5,L 4,Jon M. Huntsman Center
+10,"Thu, Jan 14, 2021",5:00p,REG,,Stanford,Pac-12,W,79,65,,5,5,W 1,Jon M. Huntsman Center
+11,"Sat, Jan 16, 2021",10:00p,REG,,University of California,Pac-12,L,63,72,,5,6,L 1,Jon M. Huntsman Center
+12,"Thu, Jan 21, 2021",10:00p,REG,@,Washington State,Pac-12,W,71,56,,6,6,W 1,Beasley Coliseum
+13,"Sun, Jan 24, 2021",4:00p,REG,@,Washington,Pac-12,L,79,83,,6,7,L 1,Alaska Airlines Arena
+14,"Sat, Jan 30, 2021",2:30p,REG,@,Colorado,Pac-12,W,77,74,,7,7,W 1,Coors Events/Conference Center
+15,"Thu, Feb 4, 2021",7:00p,REG,,Arizona,Pac-12,W,73,58,,8,7,W 2,Jon M. Huntsman Center
+16,"Thu, Feb 11, 2021",6:00p,REG,@,University of California,Pac-12,W,76,75,,9,7,W 3,Haas Pavilion
+17,"Sat, Feb 13, 2021",10:00p,REG,@,Stanford,Pac-12,L,66,73,,9,8,L 1,Maples Pavilion
+18,"Thu, Feb 18, 2021",8:30p,REG,@,Oregon State,Pac-12,L,56,74,,9,9,L 2,Gill Coliseum
+19,"Sat, Feb 20, 2021",9:00p,REG,@,Oregon,Pac-12,L,64,67,,9,10,L 3,Matthew Knight Arena
+20,"Thu, Feb 25, 2021",8:00p,REG,,UCLA,Pac-12,L,61,76,,9,11,L 4,Jon M. Huntsman Center
+21,"Sat, Feb 27, 2021",8:00p,REG,,Southern California (19),Pac-12,W,71,61,,10,11,W 1,Jon M. Huntsman Center
+22,"Wed, Mar 3, 2021",7:00p,REG,,Oregon State,Pac-12,L,70,75,,10,12,L 1,Jon M. Huntsman Center
+23,"Sat, Mar 6, 2021",2:00p,REG,,Arizona State,Pac-12,W,98,59,,11,12,W 1,Jon M. Huntsman Center
+24,"Wed, Mar 10, 2021",7:00p,CTOURN,N,Washington,Pac-12,W,98,95,,12,12,W 2,T-Mobile Arena
+25,"Thu, Mar 11, 2021",8:30p,CTOURN,N,Southern California (24),Pac-12,L,85,91,2OT,12,13,L 1,T-Mobile Arena

@@ -1,0 +1,34 @@
+G,Date,Time,Type,,Opponent,Conf,,Tm,Opp,OT,W,L,Streak,Arena
+1,"Wed, Nov 25, 2020",8:00p,REG,,Jacksonville State,OVC,W,81,57,,1,0,W 1,Coleman Coliseum
+2,"Mon, Nov 30, 2020",9:30p,REG,N,Stanford,Pac-12,L,64,82,,1,1,L 1,U.S. Cellular Center
+3,"Tue, Dec 1, 2020",9:30p,REG,N,Nevada-Las Vegas,MWC,W,86,74,,2,1,W 1,U.S. Cellular Center
+4,"Wed, Dec 2, 2020",7:00p,REG,N,Providence,Big East,W,88,71,,3,1,W 2,U.S. Cellular Center
+5,"Sat, Dec 12, 2020",8:00p,REG,N,Clemson,ACC,L,56,64,,3,2,L 1,Philips Arena
+6,"Tue, Dec 15, 2020",9:00p,REG,,Furman,Southern,W,83,80,,4,2,W 1,Coleman Coliseum
+7,"Sat, Dec 19, 2020",2:00p,REG,,Western Kentucky,CUSA,L,71,73,,4,3,L 1,Coleman Coliseum
+8,"Tue, Dec 22, 2020",7:30p,REG,,East Tennessee State,Southern,W,85,69,,5,3,W 1,Coleman Coliseum
+9,"Tue, Dec 29, 2020",9:00p,REG,,Mississippi,SEC,W,82,64,,6,3,W 2,Coleman Coliseum
+10,"Sat, Jan 2, 2021",6:00p,REG,@,Tennessee (7),SEC,W,71,63,,7,3,W 3,Thompson-Boling Arena
+11,"Tue, Jan 5, 2021",7:00p,REG,,Florida,SEC,W,86,71,,8,3,W 4,Coleman Coliseum
+12,"Sat, Jan 9, 2021",12:00p,REG,@,Auburn,SEC,W,94,90,,9,3,W 5,Auburn Arena
+13,"Tue, Jan 12, 2021",9:00p,REG,@,Kentucky,SEC,W,85,65,,10,3,W 6,Rupp Arena
+14,"Sat, Jan 16, 2021",3:30p,REG,,Arkansas,SEC,W,90,59,,11,3,W 7,Coleman Coliseum
+15,"Tue, Jan 19, 2021",9:00p,REG,@,Louisiana State,SEC,W,105,75,,12,3,W 8,Maravich Assembly Center
+16,"Sat, Jan 23, 2021",6:00p,REG,,Mississippi State,SEC,W,81,73,,13,3,W 9,Coleman Coliseum
+17,"Tue, Jan 26, 2021",7:00p,REG,,Kentucky,SEC,W,70,59,,14,3,W 10,Coleman Coliseum
+18,"Sat, Jan 30, 2021",12:00p,REG,@,Oklahoma (24),Big 12,L,61,66,,14,4,L 1,Lloyd Noble Center
+19,"Wed, Feb 3, 2021",7:00p,REG,,Louisiana State,SEC,W,78,60,,15,4,W 1,Coleman Coliseum
+20,"Sat, Feb 6, 2021",12:00p,REG,@,Missouri (18),SEC,L,65,68,,15,5,L 1,Mizzou Arena
+21,"Tue, Feb 9, 2021",6:30p,REG,@,South Carolina,SEC,W,81,78,,16,5,W 1,The Colonial Life Arena
+22,"Sat, Feb 13, 2021",3:30p,REG,,Georgia,SEC,W,115,82,,17,5,W 2,Coleman Coliseum
+23,"Sat, Feb 20, 2021",1:00p,REG,,Vanderbilt,SEC,W,82,78,,18,5,W 3,Coleman Coliseum
+24,"Wed, Feb 24, 2021",9:00p,REG,@,Arkansas (20),SEC,L,66,81,,18,6,L 1,Bud Walton Arena
+25,"Sat, Feb 27, 2021",6:00p,REG,@,Mississippi State,SEC,W,64,59,,19,6,W 1,Humphrey Coliseum
+26,"Tue, Mar 2, 2021",7:00p,REG,,Auburn,SEC,W,70,58,,20,6,W 2,Coleman Coliseum
+27,"Sat, Mar 6, 2021",2:00p,REG,@,Georgia,SEC,W,89,79,,21,6,W 3,Stegeman Coliseum
+28,"Fri, Mar 12, 2021",12:00p,CTOURN,N,Mississippi State,SEC,W,85,48,,22,6,W 4,Bridgestone Arena
+29,"Sat, Mar 13, 2021",1:00p,CTOURN,N,Tennessee,SEC,W,73,68,,23,6,W 5,Bridgestone Arena
+30,"Sun, Mar 14, 2021",1:00p,CTOURN,N,Louisiana State,SEC,W,80,79,,24,6,W 6,Bridgestone Arena
+31,"Sat, Mar 20, 2021",4:00p,NCAA,N,Iona,MAAC,W,68,55,,25,6,W 7,Hinkle Fieldhouse
+32,"Mon, Mar 22, 2021",8:45p,NCAA,N,Maryland,Big Ten,W,96,77,,26,6,W 8,Bankers Life Fieldhouse
+33,"Sun, Mar 28, 2021",7:15p,NCAA,N,UCLA,Pac-12,L,78,88,OT,26,7,L 1,Hinkle Fieldhouse

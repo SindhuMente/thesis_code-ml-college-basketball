@@ -1,0 +1,30 @@
+G,Date,Time,Type,,Opponent,Conf,,Tm,Opp,OT,W,L,Streak,Arena
+1,"Wed, Nov 25, 2020",7:00p,REG,N,South Dakota State,Summit,W,79,71,,1,0,W 1,Sanford Pentagon
+2,"Thu, Nov 26, 2020",2:30p,REG,N,Virginia Commonwealth,A-10,W,78,66,,2,0,W 2,Sanford Pentagon
+3,"Fri, Nov 27, 2020",1:30p,REG,N,Western Kentucky,CUSA,W,70,64,,3,0,W 3,Sanford Pentagon
+4,"Wed, Dec 2, 2020",7:00p,REG,N,Gonzaga (1),WCC,L,82,87,,3,1,L 1,Bankers Life Fieldhouse
+5,"Sun, Dec 6, 2020",4:30p,REG,@,Georgetown,Big East,W,80,71,,4,1,W 1,McDonough Gymnasium
+6,"Fri, Dec 11, 2020",3:00p,REG,,North Texas,CUSA,W,62,50,,5,1,W 2,WVU Coliseum
+7,"Sun, Dec 13, 2020",1:00p,REG,,Richmond (19),A-10,W,87,71,,6,1,W 3,WVU Coliseum
+8,"Fri, Dec 18, 2020",9:00p,REG,,Iowa State,Big 12,W,70,65,,7,1,W 4,WVU Coliseum
+9,"Tue, Dec 22, 2020",9:00p,REG,@,Kansas (3),Big 12,L,65,79,,7,2,L 1,Allen Fieldhouse
+10,"Tue, Dec 29, 2020",2:00p,REG,,Northeastern,CAA,W,73,51,,8,2,W 1,WVU Coliseum
+11,"Sat, Jan 2, 2021",4:00p,REG,@,Oklahoma,Big 12,L,71,75,,8,3,L 1,Lloyd Noble Center
+12,"Mon, Jan 4, 2021",9:00p,REG,@,Oklahoma State,Big 12,W,87,84,,9,3,W 1,Gallagher-Iba Arena
+13,"Sat, Jan 9, 2021",1:00p,REG,,Texas (4),Big 12,L,70,72,,9,4,L 1,WVU Coliseum
+14,"Sat, Jan 23, 2021",4:00p,REG,@,Kansas State,Big 12,W,69,47,,10,4,W 1,Bramlage Coliseum
+15,"Mon, Jan 25, 2021",9:00p,REG,,Texas Tech (10),Big 12,W,88,87,,11,4,W 2,WVU Coliseum
+16,"Sat, Jan 30, 2021",2:00p,REG,,Florida,SEC,L,80,85,,11,5,L 1,WVU Coliseum
+17,"Tue, Feb 2, 2021",7:00p,REG,@,Iowa State,Big 12,W,76,72,,12,5,W 1,James H. Hilton Coliseum
+18,"Sat, Feb 6, 2021",2:00p,REG,,Kansas (23),Big 12,W,91,79,,13,5,W 2,WVU Coliseum
+19,"Tue, Feb 9, 2021",9:00p,REG,@,Texas Tech (7),Big 12,W,82,71,,14,5,W 3,United Supermarkets Arena
+20,"Sat, Feb 13, 2021",1:00p,REG,,Oklahoma (12),Big 12,L,90,91,2OT,14,6,L 1,WVU Coliseum
+21,"Sat, Feb 20, 2021",3:00p,REG,@,Texas (12),Big 12,W,84,82,,15,6,W 1,Frank Erwin Center
+22,"Tue, Feb 23, 2021",7:00p,REG,@,Texas Christian,Big 12,W,74,66,,16,6,W 2,Ed & Rae Schollmaier Arena
+23,"Sat, Feb 27, 2021",4:00p,REG,,Kansas State,Big 12,W,65,43,,17,6,W 3,WVU Coliseum
+24,"Tue, Mar 2, 2021",5:00p,REG,,Baylor (3),Big 12,L,89,94,OT,17,7,L 1,WVU Coliseum
+25,"Thu, Mar 4, 2021",7:00p,REG,,Texas Christian,Big 12,W,76,67,,18,7,W 1,WVU Coliseum
+26,"Sat, Mar 6, 2021",2:00p,REG,,Oklahoma State (17),Big 12,L,80,85,,18,8,L 1,WVU Coliseum
+27,"Thu, Mar 11, 2021",11:30a,CTOURN,N,Oklahoma State (12),Big 12,L,69,72,,18,9,L 2,Sprint Center
+28,"Fri, Mar 19, 2021",10:25p,NCAA,N,Morehead State,OVC,W,84,67,,19,9,W 1,Lucas Oil Stadium
+29,"Sun, Mar 21, 2021",5:15p,NCAA,N,Syracuse,ACC,L,72,75,,19,10,L 1,Bankers Life Fieldhouse

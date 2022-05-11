@@ -1,0 +1,30 @@
+G,Date,Time,Type,,Opponent,Conf,,Tm,Opp,OT,W,L,Streak,Arena
+1,"Thu, Nov 26, 2020",7:00p,REG,N,Southern Illinois-Edwardsville,OVC,W,94,81,,1,0,W 1,Chaifetz Arena
+2,"Sat, Nov 28, 2020",3:00p,REG,@,Saint Louis,A-10,L,81,85,,1,1,L 1,Chaifetz Arena
+3,"Mon, Nov 30, 2020",8:00p,REG,,Southeastern Louisiana,Southland,W,96,43,,2,1,W 1,Maravich Assembly Center
+4,"Sun, Dec 6, 2020",6:00p,REG,,Louisiana Tech,CUSA,W,86,55,,3,1,W 2,Maravich Assembly Center
+5,"Mon, Dec 14, 2020",12:00p,REG,,Sam Houston State,Southland,W,88,66,,4,1,W 3,Maravich Assembly Center
+6,"Sat, Dec 26, 2020",2:00p,REG,,Nicholls State,Southland,W,86,80,,5,1,W 4,Maravich Assembly Center
+7,"Tue, Dec 29, 2020",7:00p,REG,,Texas A&M,SEC,W,77,54,,6,1,W 5,Maravich Assembly Center
+8,"Sat, Jan 2, 2021",2:00p,REG,@,Florida,SEC,L,79,83,,6,2,L 1,Stephen C. O'Connell Center
+9,"Wed, Jan 6, 2021",7:00p,REG,,Georgia,SEC,W,94,92,OT,7,2,W 1,Maravich Assembly Center
+10,"Sat, Jan 9, 2021",8:30p,REG,@,Mississippi,SEC,W,75,61,,8,2,W 2,The Pavilion at Ole Miss
+11,"Wed, Jan 13, 2021",7:00p,REG,,Arkansas,SEC,W,92,76,,9,2,W 3,Maravich Assembly Center
+12,"Sat, Jan 16, 2021",8:30p,REG,,South Carolina,SEC,W,85,80,,10,2,W 4,Maravich Assembly Center
+13,"Tue, Jan 19, 2021",9:00p,REG,,Alabama (18),SEC,L,75,105,,10,3,L 1,Maravich Assembly Center
+14,"Sat, Jan 23, 2021",6:00p,REG,@,Kentucky,SEC,L,69,82,,10,4,L 2,Rupp Arena
+15,"Tue, Jan 26, 2021",9:00p,REG,@,Texas A&M,SEC,W,78,66,,11,4,W 1,Reed Arena
+16,"Sat, Jan 30, 2021",2:00p,REG,,Texas Tech (10),Big 12,L,71,76,,11,5,L 1,Maravich Assembly Center
+17,"Wed, Feb 3, 2021",7:00p,REG,@,Alabama (10),SEC,L,60,78,,11,6,L 2,Coleman Coliseum
+18,"Wed, Feb 10, 2021",9:00p,REG,@,Mississippi State,SEC,W,94,80,,12,6,W 1,Humphrey Coliseum
+19,"Sat, Feb 13, 2021",2:00p,REG,,Tennessee (16),SEC,W,78,65,,13,6,W 2,Maravich Assembly Center
+20,"Sat, Feb 20, 2021",4:00p,REG,,Auburn,SEC,W,104,80,,14,6,W 3,Maravich Assembly Center
+21,"Tue, Feb 23, 2021",7:00p,REG,@,Georgia,SEC,L,78,91,,14,7,L 1,Stegeman Coliseum
+22,"Sat, Feb 27, 2021",2:00p,REG,@,Arkansas (20),SEC,L,75,83,,14,8,L 2,Bud Walton Arena
+23,"Tue, Mar 2, 2021",8:30p,REG,,Vanderbilt,SEC,W,83,68,,15,8,W 1,Maravich Assembly Center
+24,"Sat, Mar 6, 2021",3:00p,REG,@,Missouri,SEC,W,86,80,,16,8,W 2,Mizzou Arena
+25,"Fri, Mar 12, 2021",9:00p,CTOURN,N,Mississippi,SEC,W,76,73,,17,8,W 3,Bridgestone Arena
+26,"Sat, Mar 13, 2021",3:30p,CTOURN,N,Arkansas (8),SEC,W,78,71,,18,8,W 4,Bridgestone Arena
+27,"Sun, Mar 14, 2021",1:00p,CTOURN,N,Alabama (6),SEC,L,79,80,,18,9,L 1,Bridgestone Arena
+28,"Sat, Mar 20, 2021",1:45p,NCAA,N,St. Bonaventure,A-10,W,76,61,,19,9,W 1,Assembly Hall
+29,"Mon, Mar 22, 2021",7:10p,NCAA,N,Michigan (4),Big Ten,L,78,86,,19,10,L 1,Lucas Oil Stadium

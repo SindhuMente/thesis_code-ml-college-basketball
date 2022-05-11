@@ -1,0 +1,30 @@
+G,Date,Time,Type,,Opponent,Conf,,Tm,Opp,OT,W,L,Streak,Arena
+1,"Wed, Nov 25, 2020",7:00p,REG,,Northwestern State,Southland,W,101,58,,1,0,W 1,United Supermarkets Arena
+2,"Fri, Nov 27, 2020",2:00p,REG,,Sam Houston State,Southland,W,84,52,,2,0,W 2,United Supermarkets Arena
+3,"Sun, Nov 29, 2020",5:30p,REG,N,Houston (17),AAC,L,53,64,,2,1,L 1,
+4,"Fri, Dec 4, 2020",9:00p,REG,,Troy,Sun Belt,W,80,46,,3,1,W 1,United Supermarkets Arena
+5,"Sun, Dec 6, 2020",2:00p,REG,,Grambling,SWAC,W,81,40,,4,1,W 2,United Supermarkets Arena
+6,"Wed, Dec 9, 2020",7:00p,REG,,Abilene Christian,Southland,W,51,44,,5,1,W 3,United Supermarkets Arena
+7,"Sat, Dec 12, 2020",2:00p,REG,N,Texas A&M-Corpus Christi,Southland,W,77,57,,6,1,W 4,Comerica
+8,"Thu, Dec 17, 2020",7:00p,REG,,Kansas (5),Big 12,L,57,58,,6,2,L 1,United Supermarkets Arena
+9,"Tue, Dec 22, 2020",7:00p,REG,@,Oklahoma,Big 12,W,69,67,,7,2,W 1,Lloyd Noble Center
+10,"Tue, Dec 29, 2020",7:00p,REG,,Incarnate Word,Southland,W,79,51,,8,2,W 2,United Supermarkets Arena
+11,"Sat, Jan 2, 2021",4:00p,REG,,Oklahoma State,Big 12,L,77,82,OT,8,3,L 1,United Supermarkets Arena
+12,"Tue, Jan 5, 2021",7:00p,REG,,Kansas State,Big 12,W,82,71,,9,3,W 1,United Supermarkets Arena
+13,"Sat, Jan 9, 2021",4:00p,REG,@,Iowa State,Big 12,W,91,64,,10,3,W 2,James H. Hilton Coliseum
+14,"Wed, Jan 13, 2021",9:00p,REG,@,Texas (4),Big 12,W,79,77,,11,3,W 3,Frank Erwin Center
+15,"Sat, Jan 16, 2021",4:00p,REG,,Baylor (2),Big 12,L,60,68,,11,4,L 1,United Supermarkets Arena
+16,"Mon, Jan 25, 2021",9:00p,REG,@,West Virginia (11),Big 12,L,87,88,,11,5,L 2,WVU Coliseum
+17,"Sat, Jan 30, 2021",2:00p,REG,@,Louisiana State,SEC,W,76,71,,12,5,W 1,Maravich Assembly Center
+18,"Mon, Feb 1, 2021",9:00p,REG,,Oklahoma (9),Big 12,W,57,52,,13,5,W 2,United Supermarkets Arena
+19,"Sat, Feb 6, 2021",4:00p,REG,@,Kansas State,Big 12,W,73,62,,14,5,W 3,Bramlage Coliseum
+20,"Tue, Feb 9, 2021",9:00p,REG,,West Virginia (14),Big 12,L,71,82,,14,6,L 1,United Supermarkets Arena
+21,"Sat, Feb 20, 2021",2:00p,REG,@,Kansas (23),Big 12,L,61,67,,14,7,L 2,Allen Fieldhouse
+22,"Mon, Feb 22, 2021",9:00p,REG,@,Oklahoma State,Big 12,L,69,74,OT,14,8,L 3,Gallagher-Iba Arena
+23,"Sat, Feb 27, 2021",12:00p,REG,,Texas (14),Big 12,W,68,59,,15,8,W 1,United Supermarkets Arena
+24,"Tue, Mar 2, 2021",7:00p,REG,,Texas Christian,Big 12,W,69,49,,16,8,W 2,United Supermarkets Arena
+25,"Thu, Mar 4, 2021",7:00p,REG,,Iowa State,Big 12,W,81,54,,17,8,W 3,United Supermarkets Arena
+26,"Sun, Mar 7, 2021",4:00p,REG,@,Baylor (3),Big 12,L,73,88,,17,9,L 1,Ferrell Center
+27,"Thu, Mar 11, 2021",9:30p,CTOURN,N,Texas (13),Big 12,L,66,67,,17,10,L 2,Sprint Center
+28,"Fri, Mar 19, 2021",1:45p,NCAA,N,Utah State,MWC,W,65,53,,18,10,W 1,Assembly Hall
+29,"Sun, Mar 21, 2021",6:10p,NCAA,N,Arkansas (10),SEC,L,66,68,,18,11,L 1,Hinkle Fieldhouse

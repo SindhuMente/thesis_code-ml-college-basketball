@@ -1,0 +1,29 @@
+G,Date,Time,Type,,Opponent,Conf,,Tm,Opp,OT,W,L,Streak,Arena
+1,"Wed, Nov 25, 2020",4:00p,REG,,Bowling Green State,MAC,W,96,82,,1,0,W 1,Crisler Arena
+2,"Sun, Nov 29, 2020",6:00p,REG,,Oakland,Horizon,W,81,71,OT,2,0,W 2,Crisler Arena
+3,"Wed, Dec 2, 2020",7:00p,REG,,Ball State,MAC,W,84,65,,3,0,W 3,Crisler Arena
+4,"Sun, Dec 6, 2020",4:00p,REG,,Central Florida,AAC,W,80,58,,4,0,W 4,Crisler Arena
+5,"Wed, Dec 9, 2020",6:00p,REG,,Toledo,MAC,W,91,71,,5,0,W 5,Crisler Arena
+6,"Sun, Dec 13, 2020",2:00p,REG,,Penn State,Big Ten,W,62,58,,6,0,W 6,Crisler Arena
+7,"Fri, Dec 25, 2020",6:00p,REG,@,Nebraska,Big Ten,W,80,69,,7,0,W 7,Pinnacle Bank Arena
+8,"Thu, Dec 31, 2020",8:00p,REG,@,Maryland,Big Ten,W,84,73,,8,0,W 8,Xfinity Center
+9,"Sun, Jan 3, 2021",7:30p,REG,,Northwestern (19),Big Ten,W,85,66,,9,0,W 9,Crisler Arena
+10,"Wed, Jan 6, 2021",8:30p,REG,,Minnesota (16),Big Ten,W,82,57,,10,0,W 10,Crisler Arena
+11,"Tue, Jan 12, 2021",7:00p,REG,,Wisconsin (9),Big Ten,W,77,54,,11,0,W 11,Crisler Arena
+12,"Sat, Jan 16, 2021",2:00p,REG,@,Minnesota (23),Big Ten,L,57,75,,11,1,L 1,Williams Arena
+13,"Tue, Jan 19, 2021",7:00p,REG,,Maryland,Big Ten,W,87,63,,12,1,W 1,Crisler Arena
+14,"Fri, Jan 22, 2021",7:00p,REG,@,Purdue,Big Ten,W,70,53,,13,1,W 2,Mackey Arena
+15,"Sun, Feb 14, 2021",1:00p,REG,@,Wisconsin (21),Big Ten,W,67,59,,14,1,W 3,Kohl Center
+16,"Thu, Feb 18, 2021",9:00p,REG,,Rutgers,Big Ten,W,71,64,,15,1,W 4,Crisler Arena
+17,"Sun, Feb 21, 2021",1:00p,REG,@,Ohio State (4),Big Ten,W,92,87,,16,1,W 5,Value City Arena
+18,"Thu, Feb 25, 2021",7:00p,REG,,Iowa (9),Big Ten,W,79,57,,17,1,W 6,Crisler Arena
+19,"Sat, Feb 27, 2021",12:00p,REG,@,Indiana,Big Ten,W,73,57,,18,1,W 7,Assembly Hall
+20,"Tue, Mar 2, 2021",7:00p,REG,,Illinois (4),Big Ten,L,53,76,,18,2,L 1,Crisler Arena
+21,"Thu, Mar 4, 2021",7:00p,REG,,Michigan State,Big Ten,W,69,50,,19,2,W 1,Crisler Arena
+22,"Sun, Mar 7, 2021",4:30p,REG,@,Michigan State,Big Ten,L,64,70,,19,3,L 1,Breslin Events Center
+23,"Fri, Mar 12, 2021",11:30a,CTOURN,N,Maryland,Big Ten,W,79,66,,20,3,W 1,Lucas Oil Stadium
+24,"Sat, Mar 13, 2021",1:00p,CTOURN,N,Ohio State (9),Big Ten,L,67,68,,20,4,L 1,Lucas Oil Stadium
+25,"Sat, Mar 20, 2021",3:00p,NCAA,N,Texas Southern,SWAC,W,82,66,,21,4,W 1,Mackey Arena
+26,"Mon, Mar 22, 2021",7:10p,NCAA,N,Louisiana State,SEC,W,86,78,,22,4,W 2,Lucas Oil Stadium
+27,"Sun, Mar 28, 2021",5:00p,NCAA,N,Florida State (14),ACC,W,76,58,,23,4,W 3,Bankers Life Fieldhouse
+28,"Tue, Mar 30, 2021",9:57p,NCAA,N,UCLA,Pac-12,L,49,51,,23,5,L 1,Lucas Oil Stadium

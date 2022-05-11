@@ -1,0 +1,33 @@
+G,Date,Time,Type,,Opponent,Conf,,Tm,Opp,OT,W,L,Streak,Arena
+1,"Wed, Nov 25, 2020",8:00p,REG,N,South Dakota,Summit,W,84,61,,1,0,W 1,Bramlage Coliseum
+2,"Fri, Nov 27, 2020",8:30p,REG,@,Kansas State,Big 12,W,76,58,,2,0,W 2,Bramlage Coliseum
+3,"Tue, Dec 8, 2020",6:00p,REG,@,Tennessee (12),SEC,L,47,56,,2,1,L 1,Thompson-Boling Arena
+4,"Mon, Dec 14, 2020",9:00p,REG,,Northern Colorado,Big Sky,W,81,45,,3,1,W 1,Coors Events/Conference Center
+5,"Wed, Dec 16, 2020",5:00p,REG,,Omaha,Summit,W,91,49,,4,1,W 2,Coors Events/Conference Center
+6,"Sun, Dec 20, 2020",10:00p,REG,N,Washington,Pac-12,W,92,69,,5,1,W 3,T-Mobile Arena
+7,"Tue, Dec 22, 2020",11:00p,REG,N,Grand Canyon,WAC,W,74,64,,6,1,W 4,T-Mobile Arena
+8,"Mon, Dec 28, 2020",9:30p,REG,@,Arizona,Pac-12,L,74,88,,6,2,L 1,McKale Center
+9,"Thu, Dec 31, 2020",10:00p,REG,@,Southern California,Pac-12,W,72,62,,7,2,W 1,Galen Center
+10,"Sat, Jan 2, 2021",8:00p,REG,@,UCLA,Pac-12,L,62,65,,7,3,L 1,Pauley Pavilion
+11,"Thu, Jan 7, 2021",5:00p,REG,,Oregon (17),Pac-12,W,79,72,,8,3,W 1,Coors Events/Conference Center
+12,"Mon, Jan 11, 2021",6:00p,REG,@,Utah,Pac-12,W,65,58,,9,3,W 2,Jon M. Huntsman Center
+13,"Thu, Jan 14, 2021",2:00p,REG,,University of California,Pac-12,W,89,60,,10,3,W 3,Coors Events/Conference Center
+14,"Sat, Jan 16, 2021",3:00p,REG,,Stanford,Pac-12,W,77,64,,11,3,W 4,Coors Events/Conference Center
+15,"Wed, Jan 20, 2021",9:00p,REG,@,Washington,Pac-12,L,80,84,,11,4,L 1,Alaska Airlines Arena
+16,"Sat, Jan 23, 2021",8:00p,REG,@,Washington State,Pac-12,W,70,59,,12,4,W 1,Beasley Coliseum
+17,"Wed, Jan 27, 2021",9:00p,REG,,Washington State,Pac-12,W,70,58,,13,4,W 2,Coors Events/Conference Center
+18,"Sat, Jan 30, 2021",2:30p,REG,,Utah,Pac-12,L,74,77,,13,5,L 1,Coors Events/Conference Center
+19,"Sat, Feb 6, 2021",8:00p,REG,,Arizona,Pac-12,W,82,79,,14,5,W 1,Coors Events/Conference Center
+20,"Mon, Feb 8, 2021",7:00p,REG,,Oregon State,Pac-12,W,78,49,,15,5,W 2,Coors Events/Conference Center
+21,"Thu, Feb 11, 2021",7:00p,REG,@,Stanford,Pac-12,W,69,51,,16,5,W 3,Maples Pavilion
+22,"Sat, Feb 13, 2021",10:00p,REG,@,University of California,Pac-12,L,62,71,,16,6,L 1,Haas Pavilion
+23,"Thu, Feb 18, 2021",11:00p,REG,@,Oregon,Pac-12,L,56,60,,16,7,L 2,Matthew Knight Arena
+24,"Sat, Feb 20, 2021",8:00p,REG,@,Oregon State,Pac-12,W,61,57,,17,7,W 1,Gill Coliseum
+25,"Thu, Feb 25, 2021",9:00p,REG,,Southern California (19),Pac-12,W,80,62,,18,7,W 2,Coors Events/Conference Center
+26,"Sat, Feb 27, 2021",10:00p,REG,,UCLA,Pac-12,W,70,61,,19,7,W 3,Coors Events/Conference Center
+27,"Thu, Mar 4, 2021",9:00p,REG,,Arizona State,Pac-12,W,75,61,,20,7,W 4,Coors Events/Conference Center
+28,"Thu, Mar 11, 2021",11:30p,CTOURN,N,University of California,Pac-12,W,61,58,,21,7,W 5,T-Mobile Arena
+29,"Fri, Mar 12, 2021",11:30p,CTOURN,N,Southern California (24),Pac-12,W,72,70,,22,7,W 6,T-Mobile Arena
+30,"Sat, Mar 13, 2021",10:30p,CTOURN,N,Oregon State,Pac-12,L,68,70,,22,8,L 1,T-Mobile Arena
+31,"Sat, Mar 20, 2021",12:15p,NCAA,N,Georgetown,Big East,W,96,73,,23,8,W 1,Hinkle Fieldhouse
+32,"Mon, Mar 22, 2021",7:45p,NCAA,N,Florida State (14),ACC,L,53,71,,23,9,L 1,Indiana Farmers Coliseum

@@ -1,0 +1,25 @@
+G,Date,Time,Type,,Opponent,Conf,,Tm,Opp,OT,W,L,Streak,Arena
+1,"Wed, Nov 25, 2020",8:00p,REG,N,Mississippi State,SEC,W,53,42,,1,0,W 1,Titan Field House
+2,"Thu, Nov 26, 2020",8:30p,REG,N,Purdue,Big Ten,W,81,70,,2,0,W 2,Titan Field House
+3,"Wed, Dec 2, 2020",6:00p,REG,,South Carolina State,MEAC,W,75,38,,3,0,W 3,Littlejohn Coliseum
+4,"Wed, Dec 9, 2020",5:00p,REG,,Maryland,Big Ten,W,67,51,,4,0,W 4,Littlejohn Coliseum
+5,"Sat, Dec 12, 2020",8:00p,REG,N,Alabama,SEC,W,64,56,,5,0,W 5,Philips Arena
+6,"Tue, Dec 15, 2020",6:30p,REG,@,Virginia Tech,ACC,L,60,66,,5,1,L 1,Cassell Coliseum
+7,"Mon, Dec 21, 2020",12:00p,REG,,Morehead State,OVC,W,66,51,,6,1,W 1,Littlejohn Coliseum
+8,"Tue, Dec 29, 2020",7:00p,REG,,Florida State (18),ACC,W,77,67,,7,1,W 2,Littlejohn Coliseum
+9,"Sat, Jan 2, 2021",2:00p,REG,@,Miami (FL),ACC,W,66,65,,8,1,W 3,BankUnited Center
+10,"Tue, Jan 5, 2021",7:00p,REG,,North Carolina State,ACC,W,74,70,OT,9,1,W 4,Littlejohn Coliseum
+11,"Sat, Jan 16, 2021",6:00p,REG,,Virginia (18),ACC,L,50,85,,9,2,L 1,Littlejohn Coliseum
+12,"Wed, Jan 20, 2021",7:00p,REG,@,Georgia Tech,ACC,L,65,83,,9,3,L 2,McCamish Pavilion
+13,"Sat, Jan 23, 2021",3:00p,REG,@,Florida State,ACC,L,61,80,,9,4,L 3,Donald L. Tucker Center
+14,"Wed, Jan 27, 2021",9:00p,REG,,Louisville (25),ACC,W,54,50,,10,4,W 1,Littlejohn Coliseum
+15,"Sat, Jan 30, 2021",12:00p,REG,@,Duke,ACC,L,53,79,,10,5,L 1,Cameron Indoor Stadium
+16,"Tue, Feb 2, 2021",7:00p,REG,,North Carolina,ACC,W,63,50,,11,5,W 1,Littlejohn Coliseum
+17,"Sat, Feb 6, 2021",2:00p,REG,,Syracuse,ACC,W,78,61,,12,5,W 2,Littlejohn Coliseum
+18,"Fri, Feb 12, 2021",8:00p,REG,,Georgia Tech,ACC,W,74,72,,13,5,W 3,Littlejohn Coliseum
+19,"Wed, Feb 24, 2021",4:30p,REG,@,Wake Forest,ACC,W,60,39,,14,5,W 4,
+20,"Sat, Feb 27, 2021",2:00p,REG,,Miami (FL),ACC,W,66,58,,15,5,W 5,Littlejohn Coliseum
+21,"Wed, Mar 3, 2021",5:00p,REG,@,Syracuse,ACC,L,54,64,,15,6,L 1,Carrier Dome
+22,"Sat, Mar 6, 2021",12:00p,REG,,Pittsburgh,ACC,W,77,62,,16,6,W 1,Littlejohn Coliseum
+23,"Wed, Mar 10, 2021",2:30p,CTOURN,N,Miami (FL),ACC,L,64,67,,16,7,L 1,Greensboro Coliseum
+24,"Fri, Mar 19, 2021",9:20p,NCAA,N,Rutgers,Big Ten,L,56,60,,16,8,L 2,Bankers Life Fieldhouse

@@ -1,0 +1,26 @@
+G,Date,Time,Type,,Opponent,Conf,,Tm,Opp,OT,W,L,Streak,Arena
+1,"Sat, Nov 28, 2020",1:00p,REG,,Virginia Military Institute,Southern,W,86,65,,1,0,W 1,Bryce Jordan Center
+2,"Wed, Dec 2, 2020",5:00p,REG,,Virginia Commonwealth,A-10,W,72,69,,2,0,W 2,Bryce Jordan Center
+3,"Sun, Dec 6, 2020",8:00p,REG,,Seton Hall,Big East,L,92,98,OT,2,1,L 1,Bryce Jordan Center
+4,"Tue, Dec 8, 2020",9:00p,REG,@,Virginia Tech (15),ACC,W,75,55,,3,1,W 1,Cassell Coliseum
+5,"Sun, Dec 13, 2020",2:00p,REG,@,Michigan,Big Ten,L,58,62,,3,2,L 1,Crisler Arena
+6,"Wed, Dec 23, 2020",6:30p,REG,,Illinois (18),Big Ten,L,81,98,,3,3,L 2,Bryce Jordan Center
+7,"Wed, Dec 30, 2020",8:30p,REG,@,Indiana,Big Ten,L,85,87,OT,3,4,L 3,Assembly Hall
+8,"Sun, Jan 17, 2021",1:00p,REG,@,Purdue,Big Ten,L,72,80,,3,5,L 4,Mackey Arena
+9,"Tue, Jan 19, 2021",8:30p,REG,@,Illinois (22),Big Ten,L,65,79,,3,6,L 5,State Farm Center
+10,"Thu, Jan 21, 2021",7:00p,REG,,Rutgers,Big Ten,W,75,67,,4,6,W 1,Bryce Jordan Center
+11,"Sat, Jan 23, 2021",7:00p,REG,,Northwestern,Big Ten,W,81,78,,5,6,W 2,Bryce Jordan Center
+12,"Wed, Jan 27, 2021",7:00p,REG,@,Ohio State (13),Big Ten,L,79,83,,5,7,L 1,Value City Arena
+13,"Sat, Jan 30, 2021",3:00p,REG,,Wisconsin (14),Big Ten,W,81,71,,6,7,W 1,Bryce Jordan Center
+14,"Tue, Feb 2, 2021",8:30p,REG,@,Wisconsin (19),Big Ten,L,56,72,,6,8,L 1,Kohl Center
+15,"Fri, Feb 5, 2021",7:00p,REG,,Maryland,Big Ten,W,55,50,,7,8,W 1,Bryce Jordan Center
+16,"Tue, Feb 9, 2021",7:00p,REG,@,Michigan State,Big Ten,L,58,60,,7,9,L 1,Breslin Events Center
+17,"Sun, Feb 14, 2021",3:00p,REG,,Nebraska,Big Ten,L,61,62,,7,10,L 2,Bryce Jordan Center
+18,"Thu, Feb 18, 2021",8:00p,REG,,Ohio State (4),Big Ten,L,82,92,,7,11,L 3,Bryce Jordan Center
+19,"Sun, Feb 21, 2021",5:00p,REG,@,Iowa (11),Big Ten,L,68,74,,7,12,L 4,Carver-Hawkeye Arena
+20,"Tue, Feb 23, 2021",8:00p,REG,@,Nebraska,Big Ten,W,86,83,,8,12,W 1,Pinnacle Bank Arena
+21,"Fri, Feb 26, 2021",7:00p,REG,,Purdue,Big Ten,L,52,73,,8,13,L 1,Bryce Jordan Center
+22,"Wed, Mar 3, 2021",7:00p,REG,,Minnesota,Big Ten,W,84,65,,9,13,W 1,Bryce Jordan Center
+23,"Sun, Mar 7, 2021",7:00p,REG,@,Maryland,Big Ten,W,66,61,,10,13,W 2,Xfinity Center
+24,"Wed, Mar 10, 2021",9:00p,CTOURN,N,Nebraska,Big Ten,W,72,66,,11,13,W 3,Lucas Oil Stadium
+25,"Thu, Mar 11, 2021",9:00p,CTOURN,N,Wisconsin,Big Ten,L,74,75,,11,14,L 1,Lucas Oil Stadium

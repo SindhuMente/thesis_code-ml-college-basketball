@@ -1,0 +1,26 @@
+G,Date,Time,Type,,Opponent,Conf,,Tm,Opp,OT,W,L,Streak,Arena
+1,"Wed, Dec 2, 2020",2:30p,REG,N,Army,Patriot,W,76,69,,1,0,W 1,Mohegan Sun Arena
+2,"Thu, Dec 3, 2020",9:30p,REG,N,Boston College,ACC,W,90,70,,2,0,W 2,Mohegan Sun Arena
+3,"Sun, Dec 6, 2020",2:00p,REG,,Stetson,A-Sun,W,86,40,,3,0,W 3,Stephen C. O'Connell Center
+4,"Sat, Dec 12, 2020",11:00a,REG,@,Florida State (20),ACC,L,71,83,,3,1,L 1,Donald L. Tucker Center
+5,"Wed, Dec 30, 2020",9:00p,REG,@,Vanderbilt,SEC,W,91,72,,4,1,W 1,Memorial Gymnasium
+6,"Sat, Jan 2, 2021",2:00p,REG,,Louisiana State,SEC,W,83,79,,5,1,W 2,Stephen C. O'Connell Center
+7,"Tue, Jan 5, 2021",7:00p,REG,@,Alabama,SEC,L,71,86,,5,2,L 1,Coleman Coliseum
+8,"Sat, Jan 9, 2021",5:00p,REG,,Kentucky,SEC,L,58,76,,5,3,L 2,Stephen C. O'Connell Center
+9,"Tue, Jan 12, 2021",7:00p,REG,,Mississippi,SEC,W,72,63,,6,3,W 1,Stephen C. O'Connell Center
+10,"Sat, Jan 16, 2021",4:00p,REG,@,Mississippi State,SEC,L,69,72,,6,4,L 1,Humphrey Coliseum
+11,"Tue, Jan 19, 2021",7:00p,REG,,Tennessee (6),SEC,W,75,49,,7,4,W 1,Stephen C. O'Connell Center
+12,"Sat, Jan 23, 2021",2:00p,REG,@,Georgia,SEC,W,92,84,,8,4,W 2,Stegeman Coliseum
+13,"Wed, Jan 27, 2021",6:30p,REG,,Vanderbilt,SEC,W,78,71,,9,4,W 3,Stephen C. O'Connell Center
+14,"Sat, Jan 30, 2021",2:00p,REG,@,West Virginia (11),Big 12,W,85,80,,10,4,W 4,WVU Coliseum
+15,"Wed, Feb 3, 2021",6:30p,REG,,South Carolina,SEC,L,66,72,,10,5,L 1,Stephen C. O'Connell Center
+16,"Tue, Feb 16, 2021",7:00p,REG,@,Arkansas (24),SEC,L,64,75,,10,6,L 2,Bud Walton Arena
+17,"Sat, Feb 20, 2021",3:30p,REG,,Georgia,SEC,W,70,63,,11,6,W 1,Stephen C. O'Connell Center
+18,"Tue, Feb 23, 2021",7:00p,REG,@,Auburn,SEC,W,74,57,,12,6,W 2,Auburn Arena
+19,"Sat, Feb 27, 2021",4:00p,REG,@,Kentucky,SEC,W,71,67,,13,6,W 3,Rupp Arena
+20,"Wed, Mar 3, 2021",6:30p,REG,,Missouri,SEC,L,70,72,,13,7,L 1,Stephen C. O'Connell Center
+21,"Sun, Mar 7, 2021",12:00p,REG,@,Tennessee,SEC,L,54,65,,13,8,L 2,Thompson-Boling Arena
+22,"Thu, Mar 11, 2021",2:30p,CTOURN,N,Vanderbilt,SEC,W,69,63,,14,8,W 1,Bridgestone Arena
+23,"Fri, Mar 12, 2021",2:20p,CTOURN,N,Tennessee,SEC,L,66,78,,14,9,L 1,Bridgestone Arena
+24,"Fri, Mar 19, 2021",12:15p,NCAA,N,Virginia Tech (25),ACC,W,75,70,OT,15,9,W 1,Hinkle Fieldhouse
+25,"Sun, Mar 21, 2021",7:45p,NCAA,N,Oral Roberts,Summit,L,78,81,,15,10,L 1,Indiana Farmers Coliseum

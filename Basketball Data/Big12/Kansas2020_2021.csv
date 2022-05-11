@@ -1,0 +1,31 @@
+G,Date,Time,Type,,Opponent,Conf,,Tm,Opp,OT,W,L,Streak,Arena
+1,"Thu, Nov 26, 2020",1:30p,REG,N,Gonzaga (1),WCC,L,90,102,,0,1,L 1,Suncoast Credit Union Arena
+2,"Fri, Nov 27, 2020",2:00p,REG,N,Saint Joseph's,A-10,W,94,72,,1,1,W 1,Suncoast Credit Union Arena
+3,"Tue, Dec 1, 2020",9:30p,REG,N,Kentucky (20),SEC,W,65,62,,2,1,W 2,Bankers Life Fieldhouse
+4,"Thu, Dec 3, 2020",8:00p,REG,,Washburn,,W,89,54,,3,1,W 3,Allen Fieldhouse
+5,"Sat, Dec 5, 2020",4:00p,REG,,North Dakota State,Summit,W,65,61,,4,1,W 4,Allen Fieldhouse
+6,"Tue, Dec 8, 2020",5:00p,REG,,Creighton (8),Big East,W,73,72,,5,1,W 5,Allen Fieldhouse
+7,"Fri, Dec 11, 2020",7:00p,REG,,Omaha,Summit,W,95,50,,6,1,W 6,Allen Fieldhouse
+8,"Thu, Dec 17, 2020",7:00p,REG,@,Texas Tech (14),Big 12,W,58,57,,7,1,W 7,United Supermarkets Arena
+9,"Tue, Dec 22, 2020",9:00p,REG,,West Virginia (7),Big 12,W,79,65,,8,1,W 8,Allen Fieldhouse
+10,"Sat, Jan 2, 2021",12:00p,REG,,Texas (8),Big 12,L,59,84,,8,2,L 1,Allen Fieldhouse
+11,"Tue, Jan 5, 2021",10:00p,REG,@,Texas Christian,Big 12,W,93,64,,9,2,W 1,Ed & Rae Schollmaier Arena
+12,"Sat, Jan 9, 2021",4:30p,REG,,Oklahoma,Big 12,W,63,59,,10,2,W 2,Allen Fieldhouse
+13,"Tue, Jan 12, 2021",8:00p,REG,@,Oklahoma State,Big 12,L,70,75,,10,3,L 1,Gallagher-Iba Arena
+14,"Mon, Jan 18, 2021",9:00p,REG,@,Baylor (2),Big 12,L,69,77,,10,4,L 2,Ferrell Center
+15,"Sat, Jan 23, 2021",12:00p,REG,@,Oklahoma,Big 12,L,68,75,,10,5,L 3,Lloyd Noble Center
+16,"Thu, Jan 28, 2021",8:00p,REG,,Texas Christian,Big 12,W,59,51,,11,5,W 1,Allen Fieldhouse
+17,"Sat, Jan 30, 2021",6:00p,REG,@,Tennessee (18),SEC,L,61,80,,11,6,L 1,Thompson-Boling Arena
+18,"Tue, Feb 2, 2021",8:00p,REG,,Kansas State,Big 12,W,74,51,,12,6,W 1,Allen Fieldhouse
+19,"Sat, Feb 6, 2021",2:00p,REG,@,West Virginia (17),Big 12,L,79,91,,12,7,L 1,WVU Coliseum
+20,"Mon, Feb 8, 2021",9:00p,REG,,Oklahoma State (23),Big 12,W,78,66,,13,7,W 1,Allen Fieldhouse
+21,"Thu, Feb 11, 2021",7:00p,REG,,Iowa State,Big 12,W,97,64,,14,7,W 2,Allen Fieldhouse
+22,"Sat, Feb 13, 2021",3:00p,REG,@,Iowa State,Big 12,W,64,50,,15,7,W 3,James H. Hilton Coliseum
+23,"Wed, Feb 17, 2021",8:00p,REG,@,Kansas State,Big 12,W,59,41,,16,7,W 4,Bramlage Coliseum
+24,"Sat, Feb 20, 2021",2:00p,REG,,Texas Tech (15),Big 12,W,67,61,,17,7,W 5,Allen Fieldhouse
+25,"Tue, Feb 23, 2021",9:00p,REG,@,Texas (14),Big 12,L,72,75,OT,17,8,L 1,Frank Erwin Center
+26,"Sat, Feb 27, 2021",8:00p,REG,,Baylor (2),Big 12,W,71,58,,18,8,W 1,Allen Fieldhouse
+27,"Thu, Mar 4, 2021",8:00p,REG,,Texas-El Paso,CUSA,W,67,62,,19,8,W 2,Allen Fieldhouse
+28,"Thu, Mar 11, 2021",6:30p,CTOURN,,Oklahoma (25),Big 12,W,69,62,,20,8,W 3,Sprint Center
+29,"Sat, Mar 20, 2021",1:15p,NCAA,N,Eastern Washington,Big Sky,W,93,84,,21,8,W 4,Indiana Farmers Coliseum
+30,"Mon, Mar 22, 2021",9:40p,NCAA,N,Southern California (24),Pac-12,L,51,85,,21,9,L 1,Hinkle Fieldhouse

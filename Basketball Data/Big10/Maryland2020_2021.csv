@@ -1,0 +1,32 @@
+G,Date,Time,Type,,Opponent,Conf,,Tm,Opp,OT,W,L,Streak,Arena
+1,"Wed, Nov 25, 2020",2:00p,REG,,Old Dominion,CUSA,W,85,67,,1,0,W 1,Xfinity Center
+2,"Fri, Nov 27, 2020",3:00p,REG,,Navy,Patriot,W,82,52,,2,0,W 2,Xfinity Center
+3,"Sun, Nov 29, 2020",2:00p,REG,,Mount St. Mary's,NEC,W,79,61,,3,0,W 3,Xfinity Center
+4,"Fri, Dec 4, 2020",3:00p,REG,,Saint Peter's,MAAC,W,90,57,,4,0,W 4,Xfinity Center
+5,"Wed, Dec 9, 2020",5:00p,REG,@,Clemson,ACC,L,51,67,,4,1,L 1,Littlejohn Coliseum
+6,"Mon, Dec 14, 2020",6:00p,REG,,Rutgers (19),Big Ten,L,60,74,,4,2,L 2,Xfinity Center
+7,"Tue, Dec 22, 2020",7:00p,REG,,La Salle,A-10,W,84,71,,5,2,W 1,Xfinity Center
+8,"Fri, Dec 25, 2020",2:30p,REG,@,Purdue,Big Ten,L,70,73,,5,3,L 1,Mackey Arena
+9,"Mon, Dec 28, 2020",7:00p,REG,@,Wisconsin (6),Big Ten,W,70,64,,6,3,W 1,Kohl Center
+10,"Thu, Dec 31, 2020",8:00p,REG,,Michigan (16),Big Ten,L,73,84,,6,4,L 1,Xfinity Center
+11,"Mon, Jan 4, 2021",8:00p,REG,@,Indiana,Big Ten,L,55,63,,6,5,L 2,Assembly Hall
+12,"Thu, Jan 7, 2021",7:00p,REG,,Iowa (5),Big Ten,L,67,89,,6,6,L 3,Xfinity Center
+13,"Sun, Jan 10, 2021",8:00p,REG,@,Illinois (12),Big Ten,W,66,63,,7,6,W 1,State Farm Center
+14,"Fri, Jan 15, 2021",12:00p,REG,,Wingate,,W,100,58,,8,6,W 2,Xfinity Center
+15,"Tue, Jan 19, 2021",7:00p,REG,@,Michigan (7),Big Ten,L,63,87,,8,7,L 1,Crisler Arena
+16,"Sat, Jan 23, 2021",2:00p,REG,@,Minnesota (17),Big Ten,W,63,49,,9,7,W 1,Williams Arena
+17,"Wed, Jan 27, 2021",9:00p,REG,,Wisconsin (14),Big Ten,L,55,61,,9,8,L 1,Xfinity Center
+18,"Tue, Feb 2, 2021",6:30p,REG,,Purdue (24),Big Ten,W,61,60,,10,8,W 1,Xfinity Center
+19,"Fri, Feb 5, 2021",7:00p,REG,@,Penn State,Big Ten,L,50,55,,10,9,L 1,Bryce Jordan Center
+20,"Mon, Feb 8, 2021",9:00p,REG,,Ohio State (4),Big Ten,L,65,73,,10,10,L 2,Xfinity Center
+21,"Sun, Feb 14, 2021",7:00p,REG,,Minnesota,Big Ten,W,72,59,,11,10,W 1,Xfinity Center
+22,"Tue, Feb 16, 2021",7:00p,REG,,Nebraska,Big Ten,W,64,50,,12,10,W 2,Xfinity Center
+23,"Wed, Feb 17, 2021",7:00p,REG,,Nebraska,Big Ten,W,79,71,,13,10,W 3,Xfinity Center
+24,"Sun, Feb 21, 2021",3:00p,REG,@,Rutgers,Big Ten,W,68,59,,14,10,W 4,Rutgers Athletic Center
+25,"Sun, Feb 28, 2021",2:00p,REG,,Michigan State,Big Ten,W,73,55,,15,10,W 5,Xfinity Center
+26,"Wed, Mar 3, 2021",9:00p,REG,@,Northwestern,Big Ten,L,55,60,,15,11,L 1,Welsh-Ryan Arena
+27,"Sun, Mar 7, 2021",7:00p,REG,,Penn State,Big Ten,L,61,66,,15,12,L 2,Xfinity Center
+28,"Thu, Mar 11, 2021",11:30a,CTOURN,N,Michigan State,Big Ten,W,68,57,,16,12,W 1,Lucas Oil Stadium
+29,"Fri, Mar 12, 2021",11:30a,CTOURN,N,Michigan (4),Big Ten,L,66,79,,16,13,L 1,Lucas Oil Stadium
+30,"Sat, Mar 20, 2021",7:10p,NCAA,N,Connecticut,Big East,W,63,54,,17,13,W 1,Mackey Arena
+31,"Mon, Mar 22, 2021",8:45p,NCAA,N,Alabama (5),SEC,L,77,96,,17,14,L 1,Bankers Life Fieldhouse

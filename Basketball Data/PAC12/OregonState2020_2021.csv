@@ -1,0 +1,34 @@
+G,Date,Time,Type,,Opponent,Conf,,Tm,Opp,OT,W,L,Streak,Arena
+1,"Wed, Nov 25, 2020",7:00p,REG,,University of California,Pac-12,W,71,63,,1,0,W 1,Gill Coliseum
+2,"Fri, Nov 27, 2020",1:00p,REG,,Northwest University,,W,114,42,,2,0,W 2,Gill Coliseum
+3,"Wed, Dec 2, 2020",10:00p,REG,@,Washington State,Pac-12,L,55,59,,2,1,L 1,Beasley Coliseum
+4,"Sun, Dec 6, 2020",4:00p,REG,,Wyoming,MWC,L,73,76,,2,2,L 2,Gill Coliseum
+5,"Thu, Dec 10, 2020",8:00p,REG,,Portland,WCC,L,86,87,OT,2,3,L 3,Gill Coliseum
+6,"Wed, Dec 16, 2020",5:00p,REG,,Texas-San Antonio,CUSA,W,73,61,,3,3,W 1,Gill Coliseum
+7,"Tue, Dec 22, 2020",9:00p,REG,,Portland State,Big Sky,W,67,62,,4,3,W 2,Gill Coliseum
+8,"Sat, Jan 2, 2021",6:00p,REG,,University of California,Pac-12,W,73,64,,5,3,W 3,Gill Coliseum
+9,"Mon, Jan 4, 2021",3:00p,REG,,Stanford,Pac-12,L,71,81,,5,4,L 1,Gill Coliseum
+10,"Thu, Jan 14, 2021",11:00p,REG,,Arizona,Pac-12,L,64,98,,5,5,L 2,Gill Coliseum
+11,"Sat, Jan 16, 2021",7:00p,REG,,Arizona State,Pac-12,W,80,79,,6,5,W 1,Gill Coliseum
+12,"Tue, Jan 19, 2021",7:00p,REG,,Southern California,Pac-12,W,58,56,,7,5,W 2,Gill Coliseum
+13,"Sat, Jan 23, 2021",10:30p,REG,@,Oregon (21),Pac-12,W,75,64,,8,5,W 3,Matthew Knight Arena
+14,"Thu, Jan 28, 2021",5:00p,REG,@,Southern California,Pac-12,L,62,75,,8,6,L 1,Galen Center
+15,"Sat, Jan 30, 2021",7:00p,REG,@,UCLA (23),Pac-12,L,52,57,,8,7,L 2,Pauley Pavilion
+16,"Thu, Feb 4, 2021",9:00p,REG,,Washington,Pac-12,W,91,71,,9,7,W 1,Gill Coliseum
+17,"Sat, Feb 6, 2021",6:00p,REG,,Washington State,Pac-12,W,68,66,,10,7,W 2,Gill Coliseum
+18,"Mon, Feb 8, 2021",7:00p,REG,@,Colorado,Pac-12,L,49,78,,10,8,L 1,Coors Events/Conference Center
+19,"Thu, Feb 11, 2021",8:00p,REG,@,Arizona,Pac-12,L,61,70,,10,9,L 2,McKale Center
+20,"Sun, Feb 14, 2021",7:00p,REG,@,Arizona State,Pac-12,L,73,75,,10,10,L 3,Wells Fargo Arena
+21,"Thu, Feb 18, 2021",8:30p,REG,,Utah,Pac-12,W,74,56,,11,10,W 1,Gill Coliseum
+22,"Sat, Feb 20, 2021",8:00p,REG,,Colorado,Pac-12,L,57,61,,11,11,L 1,Gill Coliseum
+23,"Thu, Feb 25, 2021",10:00p,REG,@,University of California,Pac-12,W,59,57,,12,11,W 1,Haas Pavilion
+24,"Sat, Feb 27, 2021",6:30p,REG,@,Stanford,Pac-12,W,73,62,,13,11,W 2,Maples Pavilion
+25,"Wed, Mar 3, 2021",7:00p,REG,@,Utah,Pac-12,W,75,70,,14,11,W 3,Jon M. Huntsman Center
+26,"Sun, Mar 7, 2021",8:00p,REG,,Oregon,Pac-12,L,67,80,,14,12,L 1,Gill Coliseum
+27,"Thu, Mar 11, 2021",5:30p,CTOURN,N,UCLA,Pac-12,W,83,79,OT,15,12,W 1,T-Mobile Arena
+28,"Fri, Mar 12, 2021",8:30p,CTOURN,N,Oregon,Pac-12,W,75,64,,16,12,W 2,T-Mobile Arena
+29,"Sat, Mar 13, 2021",10:30p,CTOURN,N,Colorado (23),Pac-12,W,70,68,,17,12,W 3,T-Mobile Arena
+30,"Fri, Mar 19, 2021",4:30p,NCAA,N,Tennessee,SEC,W,70,56,,18,12,W 4,Bankers Life Fieldhouse
+31,"Sun, Mar 21, 2021",9:40p,NCAA,N,Oklahoma State (11),Big 12,W,80,70,,19,12,W 5,Hinkle Fieldhouse
+32,"Sat, Mar 27, 2021",2:40p,NCAA,N,Loyola (IL) (17),MVC,W,65,58,,20,12,W 6,Bankers Life Fieldhouse
+33,"Mon, Mar 29, 2021",7:15p,NCAA,N,Houston (6),AAC,L,61,67,,20,13,L 1,Lucas Oil Stadium

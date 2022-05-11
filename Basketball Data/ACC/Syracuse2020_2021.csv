@@ -1,0 +1,29 @@
+G,Date,Time,Type,,Opponent,Conf,,Tm,Opp,OT,W,L,Streak,Arena
+1,"Fri, Nov 27, 2020",3:00p,REG,,Bryant,NEC,W,85,84,,1,0,W 1,Carrier Dome
+2,"Thu, Dec 3, 2020",8:00p,REG,,Niagara,MAAC,W,75,45,,2,0,W 2,Carrier Dome
+3,"Sat, Dec 5, 2020",7:00p,REG,,Rider,MAAC,W,87,52,,3,0,W 3,Carrier Dome
+4,"Tue, Dec 8, 2020",9:30p,REG,@,Rutgers (21),Big Ten,L,69,79,,3,1,L 1,Rutgers Athletic Center
+5,"Sat, Dec 12, 2020",1:00p,REG,@,Boston College,ACC,W,101,63,,4,1,W 1,Silvio O. Conte Forum
+6,"Wed, Dec 16, 2020",3:00p,REG,,Northeastern,CAA,W,62,56,,5,1,W 2,Carrier Dome
+7,"Sat, Dec 19, 2020",6:00p,REG,,Buffalo,MAC,W,107,96,OT,6,1,W 3,Carrier Dome
+8,"Wed, Jan 6, 2021",4:30p,REG,,Pittsburgh,ACC,L,60,63,,6,2,L 1,Carrier Dome
+9,"Sat, Jan 9, 2021",7:00p,REG,,Georgetown,Big East,W,74,69,,7,2,W 1,Carrier Dome
+10,"Tue, Jan 12, 2021",9:00p,REG,@,North Carolina,ACC,L,75,81,,7,3,L 1,Dean Smith Center
+11,"Sat, Jan 16, 2021",12:00p,REG,@,Pittsburgh,ACC,L,76,96,,7,4,L 2,Petersen Events Center
+12,"Tue, Jan 19, 2021",7:00p,REG,,Miami (FL),ACC,W,83,57,,8,4,W 1,Carrier Dome
+13,"Sat, Jan 23, 2021",12:00p,REG,,Virginia Tech (16),ACC,W,78,60,,9,4,W 2,Carrier Dome
+14,"Mon, Jan 25, 2021",7:00p,REG,@,Virginia (8),ACC,L,58,81,,9,5,L 1,John Paul Jones Arena
+15,"Sun, Jan 31, 2021",6:00p,REG,,North Carolina State,ACC,W,76,73,,10,5,W 1,Carrier Dome
+16,"Sat, Feb 6, 2021",2:00p,REG,@,Clemson,ACC,L,61,78,,10,6,L 1,Littlejohn Coliseum
+17,"Tue, Feb 9, 2021",6:30p,REG,@,North Carolina State,ACC,W,77,68,,11,6,W 1,PNC Arena
+18,"Sat, Feb 13, 2021",2:00p,REG,,Boston College,ACC,W,75,67,,12,6,W 2,Carrier Dome
+19,"Sat, Feb 20, 2021",2:00p,REG,,Notre Dame,ACC,W,75,67,,13,6,W 3,Carrier Dome
+20,"Mon, Feb 22, 2021",7:00p,REG,@,Duke,ACC,L,71,85,,13,7,L 1,Cameron Indoor Stadium
+21,"Sat, Feb 27, 2021",12:00p,REG,@,Georgia Tech,ACC,L,77,84,,13,8,L 2,McCamish Pavilion
+22,"Mon, Mar 1, 2021",7:00p,REG,,North Carolina,ACC,W,72,70,,14,8,W 1,Carrier Dome
+23,"Wed, Mar 3, 2021",5:00p,REG,,Clemson,ACC,W,64,54,,15,8,W 2,Carrier Dome
+24,"Wed, Mar 10, 2021",12:00p,CTOURN,N,North Carolina State,ACC,W,89,68,,16,8,W 3,Greensboro Coliseum
+25,"Thu, Mar 11, 2021",12:00p,CTOURN,N,Virginia (16),ACC,L,69,72,,16,9,L 1,Greensboro Coliseum
+26,"Fri, Mar 19, 2021",9:40p,NCAA,N,San Diego State (16),MWC,W,78,62,,17,9,W 1,Hinkle Fieldhouse
+27,"Sun, Mar 21, 2021",5:15p,NCAA,N,West Virginia (13),Big 12,W,75,72,,18,9,W 2,Bankers Life Fieldhouse
+28,"Sat, Mar 27, 2021",9:55p,NCAA,N,Houston (6),AAC,L,46,62,,18,10,L 1,Hinkle Fieldhouse

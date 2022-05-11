@@ -1,0 +1,28 @@
+G,Date,Time,Type,,Opponent,Conf,,Tm,Opp,OT,W,L,Streak,Arena
+1,"Wed, Nov 25, 2020",8:00p,REG,,Texas-Rio Grande Valley,WAC,W,91,55,,1,0,W 1,Frank Erwin Center
+2,"Mon, Nov 30, 2020",12:00p,REG,N,Davidson,A-10,W,78,76,,2,0,W 2,U.S. Cellular Center
+3,"Tue, Dec 1, 2020",1:30p,REG,N,Indiana,Big Ten,W,66,44,,3,0,W 3,U.S. Cellular Center
+4,"Wed, Dec 2, 2020",4:00p,REG,N,North Carolina (14),ACC,W,69,67,,4,0,W 4,U.S. Cellular Center
+5,"Sun, Dec 6, 2020",1:00p,REG,,Villanova (12),Big East,L,64,68,,4,1,L 1,Frank Erwin Center
+6,"Wed, Dec 9, 2020",8:00p,REG,,Texas State,Sun Belt,W,74,53,,5,1,W 1,Frank Erwin Center
+7,"Wed, Dec 16, 2020",8:00p,REG,,Sam Houston State,Southland,W,79,63,,6,1,W 2,Frank Erwin Center
+8,"Sun, Dec 20, 2020",2:00p,REG,,Oklahoma State,Big 12,W,77,74,,7,1,W 3,Frank Erwin Center
+9,"Sat, Jan 2, 2021",12:00p,REG,@,Kansas (3),Big 12,W,84,59,,8,1,W 4,Allen Fieldhouse
+10,"Tue, Jan 5, 2021",8:00p,REG,,Iowa State,Big 12,W,78,72,,9,1,W 5,Frank Erwin Center
+11,"Sat, Jan 9, 2021",1:00p,REG,@,West Virginia (14),Big 12,W,72,70,,10,1,W 6,WVU Coliseum
+12,"Wed, Jan 13, 2021",9:00p,REG,,Texas Tech (15),Big 12,L,77,79,,10,2,L 1,Frank Erwin Center
+13,"Sat, Jan 16, 2021",8:00p,REG,,Kansas State,Big 12,W,82,67,,11,2,W 1,Frank Erwin Center
+14,"Tue, Jan 26, 2021",7:00p,REG,,Oklahoma (24),Big 12,L,79,80,,11,3,L 1,Frank Erwin Center
+15,"Tue, Feb 2, 2021",7:00p,REG,,Baylor (2),Big 12,L,69,83,,11,4,L 2,Frank Erwin Center
+16,"Sat, Feb 6, 2021",3:00p,REG,@,Oklahoma State,Big 12,L,67,75,2OT,11,5,L 3,Gallagher-Iba Arena
+17,"Tue, Feb 9, 2021",8:00p,REG,@,Kansas State,Big 12,W,80,77,,12,5,W 1,Bramlage Coliseum
+18,"Sat, Feb 13, 2021",2:00p,REG,,Texas Christian,Big 12,W,70,55,,13,5,W 2,Frank Erwin Center
+19,"Sat, Feb 20, 2021",3:00p,REG,,West Virginia (13),Big 12,L,82,84,,13,6,L 1,Frank Erwin Center
+20,"Tue, Feb 23, 2021",9:00p,REG,,Kansas (17),Big 12,W,75,72,OT,14,6,W 1,Frank Erwin Center
+21,"Sat, Feb 27, 2021",12:00p,REG,@,Texas Tech (18),Big 12,L,59,68,,14,7,L 1,United Supermarkets Arena
+22,"Tue, Mar 2, 2021",7:00p,REG,@,Iowa State,Big 12,W,81,67,,15,7,W 1,James H. Hilton Coliseum
+23,"Thu, Mar 4, 2021",9:00p,REG,@,Oklahoma (16),Big 12,W,69,65,,16,7,W 2,Lloyd Noble Center
+24,"Sun, Mar 7, 2021",7:00p,REG,@,Texas Christian,Big 12,W,76,64,,17,7,W 3,Ed & Rae Schollmaier Arena
+25,"Thu, Mar 11, 2021",9:30p,CTOURN,N,Texas Tech (20),Big 12,W,67,66,,18,7,W 4,Sprint Center
+26,"Sat, Mar 13, 2021",6:00p,CTOURN,N,Oklahoma State (12),Big 12,W,91,86,,19,7,W 5,Sprint Center
+27,"Sat, Mar 20, 2021",10:13p,NCAA,N,Abilene Christian,Southland,L,52,53,,19,8,L 1,Lucas Oil Stadium

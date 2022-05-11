@@ -1,0 +1,26 @@
+G,Date,Time,Type,,Opponent,Conf,,Tm,Opp,OT,W,L,Streak,Arena
+1,"Wed, Nov 25, 2020",8:00p,REG,,Charleston Southern,Big South,W,95,61,,1,0,W 1,Reynolds Coliseum
+2,"Fri, Nov 27, 2020",5:30p,REG,,North Florida,A-Sun,W,86,51,,2,0,W 2,Reynolds Coliseum
+3,"Thu, Dec 3, 2020",4:30p,REG,N,Massachusetts-Lowell,AEC,W,90,59,,3,0,W 3,Mohegan Sun Arena
+4,"Thu, Dec 17, 2020",8:00p,REG,@,Saint Louis,A-10,L,69,80,,3,1,L 1,Chaifetz Arena
+5,"Sat, Dec 19, 2020",4:00p,REG,,Campbell,Big South,W,69,50,,4,1,W 1,PNC Arena
+6,"Tue, Dec 22, 2020",7:00p,REG,,North Carolina (17),ACC,W,79,76,,5,1,W 2,PNC Arena
+7,"Wed, Dec 30, 2020",8:00p,REG,,Boston College,ACC,W,79,76,,6,1,W 3,PNC Arena
+8,"Tue, Jan 5, 2021",7:00p,REG,@,Clemson (19),ACC,L,70,74,OT,6,2,L 1,Littlejohn Coliseum
+9,"Sat, Jan 9, 2021",12:00p,REG,,Miami (FL),ACC,L,59,64,,6,3,L 2,PNC Arena
+10,"Wed, Jan 13, 2021",6:30p,REG,@,Florida State,ACC,L,73,105,,6,4,L 3,Donald L. Tucker Center
+11,"Sat, Jan 23, 2021",2:00p,REG,@,North Carolina,ACC,L,76,86,,6,5,L 4,Dean Smith Center
+12,"Wed, Jan 27, 2021",8:00p,REG,,Wake Forest,ACC,W,72,67,,7,5,W 1,PNC Arena
+13,"Sun, Jan 31, 2021",6:00p,REG,@,Syracuse,ACC,L,73,76,,7,6,L 1,Carrier Dome
+14,"Wed, Feb 3, 2021",9:00p,REG,,Virginia (14),ACC,L,57,64,,7,7,L 2,PNC Arena
+15,"Sat, Feb 6, 2021",12:00p,REG,@,Boston College,ACC,W,81,65,,8,7,W 1,Silvio O. Conte Forum
+16,"Tue, Feb 9, 2021",6:30p,REG,,Syracuse,ACC,L,68,77,,8,8,L 1,PNC Arena
+17,"Sat, Feb 13, 2021",4:00p,REG,,Duke,ACC,L,53,69,,8,9,L 2,PNC Arena
+18,"Wed, Feb 17, 2021",4:30p,REG,@,Pittsburgh,ACC,W,74,73,,9,9,W 1,Petersen Events Center
+19,"Sat, Feb 20, 2021",2:00p,REG,@,Wake Forest,ACC,W,80,62,,10,9,W 2,
+20,"Wed, Feb 24, 2021",6:30p,REG,@,Virginia (15),ACC,W,68,61,,11,9,W 3,John Paul Jones Arena
+21,"Sun, Feb 28, 2021",4:00p,REG,,Pittsburgh,ACC,W,65,62,,12,9,W 4,PNC Arena
+22,"Wed, Mar 3, 2021",7:00p,REG,@,Notre Dame,ACC,W,80,69,,13,9,W 5,Purcell Pavilion at the Joyce Center
+23,"Wed, Mar 10, 2021",12:00p,CTOURN,N,Syracuse,ACC,L,68,89,,13,10,L 1,Greensboro Coliseum
+24,"Thu, Mar 18, 2021",7:00p,NIT,N,Davidson,A-10,W,75,61,,14,10,W 1,UNT Coliseum
+25,"Thu, Mar 25, 2021",7:00p,NIT,N,Colorado State,MWC,L,61,65,,14,11,L 1,Comerica

@@ -1,0 +1,27 @@
+G,Date,Time,Type,,Opponent,Conf,,Tm,Opp,OT,W,L,Streak,Arena
+1,"Wed, Nov 25, 2020",7:00p,REG,,Oral Roberts,Summit,W,91,64,,1,0,W 1,Mizzou Arena
+2,"Wed, Dec 2, 2020",9:00p,REG,N,Oregon (21),Pac-12,W,83,75,,2,0,W 2,CenturyLink Center
+3,"Sun, Dec 6, 2020",2:00p,REG,@,Wichita State,AAC,W,72,62,,3,0,W 3,Charles Koch Arena
+4,"Wed, Dec 9, 2020",8:15p,REG,,Liberty,A-Sun,W,69,60,,4,0,W 4,Mizzou Arena
+5,"Sat, Dec 12, 2020",8:00p,REG,,Illinois (6),Big Ten,W,81,78,,5,0,W 5,Mizzou Arena
+6,"Tue, Dec 22, 2020",7:00p,REG,,Bradley,MVC,W,54,53,,6,0,W 6,Mizzou Arena
+7,"Wed, Dec 30, 2020",9:00p,REG,,Tennessee (7),SEC,L,53,73,,6,1,L 1,Mizzou Arena
+8,"Sat, Jan 2, 2021",12:00p,REG,@,Arkansas,SEC,W,81,68,,7,1,W 1,Bud Walton Arena
+9,"Tue, Jan 5, 2021",9:00p,REG,@,Mississippi State,SEC,L,63,78,,7,2,L 1,Humphrey Coliseum
+10,"Sat, Jan 16, 2021",1:00p,REG,@,Texas A&M,SEC,W,68,52,,8,2,W 1,Reed Arena
+11,"Tue, Jan 19, 2021",7:00p,REG,,South Carolina,SEC,W,81,70,,9,2,W 2,Mizzou Arena
+12,"Sat, Jan 23, 2021",8:30p,REG,@,Tennessee (6),SEC,W,73,64,,10,2,W 3,Thompson-Boling Arena
+13,"Tue, Jan 26, 2021",9:00p,REG,@,Auburn,SEC,L,82,88,,10,3,L 1,Auburn Arena
+14,"Sat, Jan 30, 2021",2:00p,REG,,Texas Christian,Big 12,W,102,98,OT,11,3,W 1,Mizzou Arena
+15,"Wed, Feb 3, 2021",7:00p,REG,,Kentucky,SEC,W,75,70,,12,3,W 2,Mizzou Arena
+16,"Sat, Feb 6, 2021",12:00p,REG,,Alabama (10),SEC,W,68,65,,13,3,W 3,Mizzou Arena
+17,"Wed, Feb 10, 2021",9:00p,REG,@,Mississippi,SEC,L,59,80,,13,4,L 1,The Pavilion at Ole Miss
+18,"Sat, Feb 13, 2021",4:00p,REG,,Arkansas,SEC,L,81,86,OT,13,5,L 2,Mizzou Arena
+19,"Tue, Feb 16, 2021",7:00p,REG,@,Georgia,SEC,L,70,80,,13,6,L 3,Stegeman Coliseum
+20,"Sat, Feb 20, 2021",2:00p,REG,@,South Carolina,SEC,W,93,78,,14,6,W 1,The Colonial Life Arena
+21,"Tue, Feb 23, 2021",9:00p,REG,,Mississippi,SEC,L,53,60,,14,7,L 1,Mizzou Arena
+22,"Wed, Mar 3, 2021",6:30p,REG,@,Florida,SEC,W,72,70,,15,7,W 1,Stephen C. O'Connell Center
+23,"Sat, Mar 6, 2021",3:00p,REG,,Louisiana State,SEC,L,80,86,,15,8,L 1,Mizzou Arena
+24,"Thu, Mar 11, 2021",7:00p,CTOURN,N,Georgia,SEC,W,73,70,,16,8,W 1,Bridgestone Arena
+25,"Fri, Mar 12, 2021",7:00p,CTOURN,N,Arkansas (8),SEC,L,64,70,,16,9,L 1,Bridgestone Arena
+26,"Sat, Mar 20, 2021",7:25p,NCAA,N,Oklahoma,Big 12,L,68,72,,16,10,L 2,Lucas Oil Stadium

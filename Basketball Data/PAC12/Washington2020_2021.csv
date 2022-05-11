@@ -1,0 +1,27 @@
+G,Date,Time,Type,,Opponent,Conf,,Tm,Opp,OT,W,L,Streak,Arena
+1,"Sun, Nov 29, 2020",6:00p,REG,N,Baylor (2),Big 12,L,52,86,,0,1,L 1,T-Mobile Arena
+2,"Tue, Dec 1, 2020",4:00p,REG,N,UC-Riverside,Big West,L,42,57,,0,2,L 2,T-Mobile Arena
+3,"Thu, Dec 3, 2020",6:00p,REG,@,Utah,Pac-12,L,62,76,,0,3,L 3,Jon M. Huntsman Center
+4,"Wed, Dec 9, 2020",11:00p,REG,,Seattle,WAC,W,73,41,,1,3,W 1,Alaska Airlines Arena
+5,"Sat, Dec 12, 2020",8:00p,REG,,Oregon,Pac-12,L,71,74,,1,4,L 1,Alaska Airlines Arena
+6,"Wed, Dec 16, 2020",11:00p,REG,,Montana,Big Sky,L,58,66,,1,5,L 2,Alaska Airlines Arena
+7,"Sun, Dec 20, 2020",10:00p,REG,N,Colorado,Pac-12,L,69,92,,1,6,L 3,T-Mobile Arena
+8,"Thu, Dec 31, 2020",8:00p,REG,,Arizona,Pac-12,L,53,80,,1,7,L 4,Alaska Airlines Arena
+9,"Thu, Jan 7, 2021",9:00p,REG,N,Stanford,Pac-12,L,75,91,,1,8,L 5,Kaiser Permanente Arena
+10,"Sat, Jan 9, 2021",3:00p,REG,@,University of California,Pac-12,L,78,84,,1,9,L 6,Haas Pavilion
+11,"Thu, Jan 14, 2021",9:30p,REG,@,Southern California,Pac-12,L,68,95,,1,10,L 7,Galen Center
+12,"Sat, Jan 16, 2021",5:00p,REG,@,UCLA,Pac-12,L,76,81,,1,11,L 8,Pauley Pavilion
+13,"Wed, Jan 20, 2021",9:00p,REG,,Colorado,Pac-12,W,84,80,,2,11,W 1,Alaska Airlines Arena
+14,"Sun, Jan 24, 2021",4:00p,REG,,Utah,Pac-12,W,83,79,,3,11,W 2,Alaska Airlines Arena
+15,"Sun, Jan 31, 2021",8:00p,REG,,Washington State,Pac-12,L,62,77,,3,12,L 1,Alaska Airlines Arena
+16,"Thu, Feb 4, 2021",9:00p,REG,@,Oregon State,Pac-12,L,71,91,,3,13,L 2,Gill Coliseum
+17,"Sat, Feb 6, 2021",4:00p,REG,@,Oregon,Pac-12,L,74,86,,3,14,L 3,Matthew Knight Arena
+18,"Thu, Feb 11, 2021",10:00p,REG,,Southern California (20),Pac-12,L,54,69,,3,15,L 4,Alaska Airlines Arena
+19,"Sat, Feb 13, 2021",7:30p,REG,,UCLA,Pac-12,L,61,64,,3,16,L 5,Alaska Airlines Arena
+20,"Mon, Feb 15, 2021",8:00p,REG,@,Washington State,Pac-12,W,65,63,,4,16,W 1,Beasley Coliseum
+21,"Thu, Feb 18, 2021",11:00p,REG,,Stanford,Pac-12,L,61,79,,4,17,L 1,Alaska Airlines Arena
+22,"Sat, Feb 20, 2021",10:00p,REG,,University of California,Pac-12,W,62,51,,5,17,W 1,Alaska Airlines Arena
+23,"Tue, Feb 23, 2021",9:00p,REG,@,Arizona State,Pac-12,L,64,97,,5,18,L 1,Wells Fargo Arena
+24,"Thu, Feb 25, 2021",7:00p,REG,@,Arizona State,Pac-12,L,72,80,,5,19,L 2,Wells Fargo Arena
+25,"Sat, Feb 27, 2021",2:00p,REG,@,Arizona,Pac-12,L,74,75,,5,20,L 3,McKale Center
+26,"Wed, Mar 10, 2021",7:00p,CTOURN,N,Utah,Pac-12,L,95,98,,5,21,L 4,T-Mobile Arena

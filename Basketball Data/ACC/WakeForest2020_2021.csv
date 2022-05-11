@@ -1,0 +1,23 @@
+G,Date,Time,Type,,Opponent,Conf,,Tm,Opp,OT,W,L,Streak,Arena
+1,"Wed, Nov 25, 2020",4:00p,REG,,Delaware State,MEAC,W,111,51,,1,0,W 1,
+2,"Fri, Nov 27, 2020",7:00p,REG,,Longwood,Big South,W,71,60,,2,0,W 2,
+3,"Thu, Dec 31, 2020",3:00p,REG,,Catawba,,W,70,62,,3,0,W 3,
+4,"Sun, Jan 3, 2021",6:00p,REG,@,Georgia Tech,ACC,L,54,70,,3,1,L 1,McCamish Pavilion
+5,"Wed, Jan 6, 2021",9:00p,REG,@,Virginia (22),ACC,L,61,70,,3,2,L 2,John Paul Jones Arena
+6,"Sat, Jan 9, 2021",12:00p,REG,@,Duke (21),ACC,L,68,79,,3,3,L 3,Cameron Indoor Stadium
+7,"Wed, Jan 13, 2021",8:30p,REG,,Louisville (16),ACC,L,65,77,,3,4,L 4,
+8,"Sun, Jan 17, 2021",6:00p,REG,,Virginia Tech (20),ACC,L,60,64,,3,5,L 5,
+9,"Wed, Jan 20, 2021",7:00p,REG,@,North Carolina,ACC,L,73,80,,3,6,L 6,Dean Smith Center
+10,"Sat, Jan 23, 2021",6:00p,REG,,Pittsburgh,ACC,W,76,75,,4,6,W 1,
+11,"Wed, Jan 27, 2021",8:00p,REG,@,North Carolina State,ACC,L,67,72,,4,7,L 1,PNC Arena
+12,"Sat, Jan 30, 2021",2:00p,REG,,Miami (FL),ACC,W,66,54,,5,7,W 1,
+13,"Tue, Feb 2, 2021",5:00p,REG,@,Notre Dame,ACC,L,58,79,,5,8,L 1,Purcell Pavilion at the Joyce Center
+14,"Wed, Feb 10, 2021",7:00p,REG,@,Boston College,ACC,W,69,65,,6,8,W 1,Silvio O. Conte Forum
+15,"Sat, Feb 13, 2021",12:00p,REG,@,Florida State (17),ACC,L,85,92,OT,6,9,L 1,Donald L. Tucker Center
+16,"Wed, Feb 17, 2021",8:30p,REG,,Duke,ACC,L,60,84,,6,10,L 2,
+17,"Sat, Feb 20, 2021",2:00p,REG,,North Carolina State,ACC,L,62,80,,6,11,L 3,
+18,"Wed, Feb 24, 2021",4:30p,REG,,Clemson,ACC,L,39,60,,6,12,L 4,
+19,"Sat, Feb 27, 2021",4:00p,REG,@,Virginia Tech (16),ACC,L,46,84,,6,13,L 5,Cassell Coliseum
+20,"Tue, Mar 2, 2021",6:00p,REG,@,Pittsburgh,ACC,L,57,70,,6,14,L 6,Petersen Events Center
+21,"Fri, Mar 5, 2021",8:00p,REG,,Georgia Tech,ACC,L,63,75,,6,15,L 7,
+22,"Tue, Mar 9, 2021",7:00p,CTOURN,N,Notre Dame,ACC,L,77,80,,6,16,L 8,Greensboro Coliseum
